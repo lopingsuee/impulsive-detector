@@ -1,0 +1,51 @@
+{
+  "dataset_info": {
+    "total_records": 119021,
+    "total_columns": 70,
+    "memory_mb": 237.84407901763916,
+    "date_range": {
+      "min": "2015-01-01 00:00:00",
+      "max": "2025-11-30 23:17:00"
+    }
+  },
+  "missing_values": {
+    "columns_with_missing": 64,
+    "critical_missing": {
+      "date": {
+        "count": 10808,
+        "percentage": 9.08
+      },
+      "amount": {
+        "count": 308,
+        "percentage": 0.26
+      },
+      "category": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "data_source": {
+        "count": 0,
+        "percentage": 0.0
+      }
+    }
+  },
+  "data_quality": {
+    "unparseable_dates": 10808,
+    "future_dates": 0,
+    "negative_amounts": 0,
+    "zero_amounts": 15876,
+    "non_numeric_amounts": 308
+  },
+  "duplicates": {
+    "exact_duplicates": 4933,
+    "subset_duplicates": 75262
+  },
+  "outliers": {
+    "iqr_outliers": 10941,
+    "percentage": 9.19
+  },
+  "consistency": {
+    "unique_categories": 735,
+    "case_duplicates": 0
+  }
+}
