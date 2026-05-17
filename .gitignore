@@ -1,0 +1,40 @@
+# Local agent/workspace files
+.agents/
+.virtual_documents/
+skills-lock.json
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Jupyter / notebook temporary files
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Generated data outputs
+data/interim/
+data/processed/
+
+# Generated reports / figures
+reports/figures/
+reports/*_by_dataset.txt
+
+# Temporary and local system files
+*.log
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+
+# Local prompt scratch folder, if created
+prompts/
