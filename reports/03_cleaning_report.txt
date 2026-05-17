@@ -1,0 +1,40 @@
+================================================================================
+DATA CLEANING REPORT
+================================================================================
+
+BEFORE CLEANING
+--------------------------------------------------------------------------------
+Total Records: 119,021
+Total Columns: 66
+Missing Values: 5,305,227
+Duplicates: 78,357
+
+AFTER CLEANING
+--------------------------------------------------------------------------------
+Total Records: 20,352
+Total Columns: 5
+Missing Values: 0
+Duplicates: 0
+
+REMOVED DATA
+--------------------------------------------------------------------------------
+Total Removed: 98,669
+Percentage: 82.9%
+Retention Rate: 17.1%
+
+CLEANING STEPS
+--------------------------------------------------------------------------------
+Initial dataset: 119,021 records
+Remove critical missing values: 107,937 records
+Impute non-critical missing values: 107,937 records
+Remove invalid dates: 107,937 records
+Remove future dates: 107,937 records
+Filter date range 2020-2024: 54,408 records
+Remove non-numeric amounts: 54,408 records
+Remove negative amounts: 54,408 records
+Cap extreme outliers: 54,408 records
+Standardize text fields: 54,408 records
+Remove exact duplicates: 51,948 records
+Remove duplicate transaction keys: 20,352 records
+
+================================================================================
