@@ -1,0 +1,458 @@
+{
+  "ecommerce_2024_01_january": {
+    "dataset_id": "ecommerce_2024_01_january",
+    "dataset_name": "E-Commerce Sales - January 2024",
+    "domain": "ecommerce_sales",
+    "initial_records": 431,
+    "final_records": 431,
+    "removed_records": 0,
+    "retention_pct": 100.0,
+    "date_source": "source_column",
+    "amount_column": "Total Pembayaran",
+    "category_column": "product_categories",
+    "capped_records": 4,
+    "amount_cap_p99": 703122.34,
+    "missing_cells_after": 0,
+    "duplicate_keys_after": 0,
+    "total_amount": 23760242.36,
+    "median_amount": 30000.0,
+    "top_category": "celengan",
+    "cleaning_steps": [
+      {
+        "step": "Remove rows without valid date",
+        "before_records": 431,
+        "after_records": 431,
+        "removed_records": 0,
+        "details": {
+          "date_source": "source_column"
+        }
+      },
+      {
+        "step": "Remove rows without valid non-negative amount",
+        "before_records": 431,
+        "after_records": 431,
+        "removed_records": 0,
+        "details": {
+          "amount_column": "Total Pembayaran"
+        }
+      },
+      {
+        "step": "Cap high amount outliers at p99 per dataset",
+        "before_records": 431,
+        "after_records": 431,
+        "removed_records": 0,
+        "details": {
+          "cap_value": 703122.34,
+          "capped_records": 4
+        }
+      },
+      {
+        "step": "Remove duplicate cleaned transaction keys",
+        "before_records": 431,
+        "after_records": 431,
+        "removed_records": 0,
+        "details": {}
+      }
+    ],
+    "output_path": "data/interim/cleaned_separate/ecommerce_2024_01_january_cleaned.csv"
+  },
+  "ecommerce_2024_06_june": {
+    "dataset_id": "ecommerce_2024_06_june",
+    "dataset_name": "E-Commerce Sales - June 2024",
+    "domain": "ecommerce_sales",
+    "initial_records": 697,
+    "final_records": 697,
+    "removed_records": 0,
+    "retention_pct": 100.0,
+    "date_source": "source_column",
+    "amount_column": "Total Pembayaran",
+    "category_column": "product_categories",
+    "capped_records": 6,
+    "amount_cap_p99": 538000.0,
+    "missing_cells_after": 0,
+    "duplicate_keys_after": 0,
+    "total_amount": 30399557.0,
+    "median_amount": 21696.0,
+    "top_category": "celengan",
+    "cleaning_steps": [
+      {
+        "step": "Remove rows without valid date",
+        "before_records": 697,
+        "after_records": 697,
+        "removed_records": 0,
+        "details": {
+          "date_source": "source_column"
+        }
+      },
+      {
+        "step": "Remove rows without valid non-negative amount",
+        "before_records": 697,
+        "after_records": 697,
+        "removed_records": 0,
+        "details": {
+          "amount_column": "Total Pembayaran"
+        }
+      },
+      {
+        "step": "Cap high amount outliers at p99 per dataset",
+        "before_records": 697,
+        "after_records": 697,
+        "removed_records": 0,
+        "details": {
+          "cap_value": 538000.0,
+          "capped_records": 6
+        }
+      },
+      {
+        "step": "Remove duplicate cleaned transaction keys",
+        "before_records": 697,
+        "after_records": 697,
+        "removed_records": 0,
+        "details": {}
+      }
+    ],
+    "output_path": "data/interim/cleaned_separate/ecommerce_2024_06_june_cleaned.csv"
+  },
+  "ecommerce_2024_12_december": {
+    "dataset_id": "ecommerce_2024_12_december",
+    "dataset_name": "E-Commerce Sales - December 2024",
+    "domain": "ecommerce_sales",
+    "initial_records": 1214,
+    "final_records": 1214,
+    "removed_records": 0,
+    "retention_pct": 100.0,
+    "date_source": "dataset_period_from_filename",
+    "amount_column": "Total Pembayaran",
+    "category_column": "product_categories",
+    "capped_records": 11,
+    "amount_cap_p99": 506389.5999999912,
+    "missing_cells_after": 0,
+    "duplicate_keys_after": 0,
+    "total_amount": 49350222.599999905,
+    "median_amount": 21280.0,
+    "top_category": "celengan",
+    "cleaning_steps": [
+      {
+        "step": "Remove rows without valid date",
+        "before_records": 1214,
+        "after_records": 1214,
+        "removed_records": 0,
+        "details": {
+          "date_source": "dataset_period_from_filename"
+        }
+      },
+      {
+        "step": "Remove rows without valid non-negative amount",
+        "before_records": 1214,
+        "after_records": 1214,
+        "removed_records": 0,
+        "details": {
+          "amount_column": "Total Pembayaran"
+        }
+      },
+      {
+        "step": "Cap high amount outliers at p99 per dataset",
+        "before_records": 1214,
+        "after_records": 1214,
+        "removed_records": 0,
+        "details": {
+          "cap_value": 506389.5999999912,
+          "capped_records": 11
+        }
+      },
+      {
+        "step": "Remove duplicate cleaned transaction keys",
+        "before_records": 1214,
+        "after_records": 1214,
+        "removed_records": 0,
+        "details": {}
+      }
+    ],
+    "output_path": "data/interim/cleaned_separate/ecommerce_2024_12_december_cleaned.csv"
+  },
+  "ecommerce_2025_02_february": {
+    "dataset_id": "ecommerce_2025_02_february",
+    "dataset_name": "E-Commerce Sales - February 2025",
+    "domain": "ecommerce_sales",
+    "initial_records": 957,
+    "final_records": 957,
+    "removed_records": 0,
+    "retention_pct": 100.0,
+    "date_source": "source_column",
+    "amount_column": "Total Pembayaran",
+    "category_column": "product_categories",
+    "capped_records": 9,
+    "amount_cap_p99": 684076.1000000017,
+    "missing_cells_after": 0,
+    "duplicate_keys_after": 0,
+    "total_amount": 48015557.90000001,
+    "median_amount": 20998.0,
+    "top_category": "celengan",
+    "cleaning_steps": [
+      {
+        "step": "Remove rows without valid date",
+        "before_records": 957,
+        "after_records": 957,
+        "removed_records": 0,
+        "details": {
+          "date_source": "source_column"
+        }
+      },
+      {
+        "step": "Remove rows without valid non-negative amount",
+        "before_records": 957,
+        "after_records": 957,
+        "removed_records": 0,
+        "details": {
+          "amount_column": "Total Pembayaran"
+        }
+      },
+      {
+        "step": "Cap high amount outliers at p99 per dataset",
+        "before_records": 957,
+        "after_records": 957,
+        "removed_records": 0,
+        "details": {
+          "cap_value": 684076.1000000017,
+          "capped_records": 9
+        }
+      },
+      {
+        "step": "Remove duplicate cleaned transaction keys",
+        "before_records": 957,
+        "after_records": 957,
+        "removed_records": 0,
+        "details": {}
+      }
+    ],
+    "output_path": "data/interim/cleaned_separate/ecommerce_2025_02_february_cleaned.csv"
+  },
+  "ecommerce_2025_07_july": {
+    "dataset_id": "ecommerce_2025_07_july",
+    "dataset_name": "E-Commerce Sales - July 2025",
+    "domain": "ecommerce_sales",
+    "initial_records": 766,
+    "final_records": 766,
+    "removed_records": 0,
+    "retention_pct": 100.0,
+    "date_source": "dataset_period_from_filename",
+    "amount_column": "Total Pembayaran",
+    "category_column": "product_categories",
+    "capped_records": 7,
+    "amount_cap_p99": 732355.9999999986,
+    "missing_cells_after": 0,
+    "duplicate_keys_after": 0,
+    "total_amount": 34504161.999999985,
+    "median_amount": 19500.0,
+    "top_category": "aksesoris_pintu",
+    "cleaning_steps": [
+      {
+        "step": "Remove rows without valid date",
+        "before_records": 766,
+        "after_records": 766,
+        "removed_records": 0,
+        "details": {
+          "date_source": "dataset_period_from_filename"
+        }
+      },
+      {
+        "step": "Remove rows without valid non-negative amount",
+        "before_records": 766,
+        "after_records": 766,
+        "removed_records": 0,
+        "details": {
+          "amount_column": "Total Pembayaran"
+        }
+      },
+      {
+        "step": "Cap high amount outliers at p99 per dataset",
+        "before_records": 766,
+        "after_records": 766,
+        "removed_records": 0,
+        "details": {
+          "cap_value": 732355.9999999986,
+          "capped_records": 7
+        }
+      },
+      {
+        "step": "Remove duplicate cleaned transaction keys",
+        "before_records": 766,
+        "after_records": 766,
+        "removed_records": 0,
+        "details": {}
+      }
+    ],
+    "output_path": "data/interim/cleaned_separate/ecommerce_2025_07_july_cleaned.csv"
+  },
+  "ecommerce_2025_11_november": {
+    "dataset_id": "ecommerce_2025_11_november",
+    "dataset_name": "E-Commerce Sales - November 2025",
+    "domain": "ecommerce_sales",
+    "initial_records": 1131,
+    "final_records": 1131,
+    "removed_records": 0,
+    "retention_pct": 100.0,
+    "date_source": "source_column",
+    "amount_column": "Total Pembayaran",
+    "category_column": "product_categories",
+    "capped_records": 11,
+    "amount_cap_p99": 405037.89999999973,
+    "missing_cells_after": 0,
+    "duplicate_keys_after": 0,
+    "total_amount": 40747696.89999999,
+    "median_amount": 18900.0,
+    "top_category": "mangkok_sambal_saus",
+    "cleaning_steps": [
+      {
+        "step": "Remove rows without valid date",
+        "before_records": 1131,
+        "after_records": 1131,
+        "removed_records": 0,
+        "details": {
+          "date_source": "source_column"
+        }
+      },
+      {
+        "step": "Remove rows without valid non-negative amount",
+        "before_records": 1131,
+        "after_records": 1131,
+        "removed_records": 0,
+        "details": {
+          "amount_column": "Total Pembayaran"
+        }
+      },
+      {
+        "step": "Cap high amount outliers at p99 per dataset",
+        "before_records": 1131,
+        "after_records": 1131,
+        "removed_records": 0,
+        "details": {
+          "cap_value": 405037.89999999973,
+          "capped_records": 11
+        }
+      },
+      {
+        "step": "Remove duplicate cleaned transaction keys",
+        "before_records": 1131,
+        "after_records": 1131,
+        "removed_records": 0,
+        "details": {}
+      }
+    ],
+    "output_path": "data/interim/cleaned_separate/ecommerce_2025_11_november_cleaned.csv"
+  },
+  "daily_household_transactions": {
+    "dataset_id": "daily_household_transactions",
+    "dataset_name": "Daily Household Transactions",
+    "domain": "household_finance",
+    "initial_records": 2461,
+    "final_records": 2445,
+    "removed_records": 16,
+    "retention_pct": 99.35,
+    "date_source": "source_column",
+    "amount_column": "Amount",
+    "category_column": "Category",
+    "capped_records": 25,
+    "amount_cap_p99": 62292.80000000012,
+    "missing_cells_after": 4890,
+    "duplicate_keys_after": 0,
+    "total_amount": 5898107.980000002,
+    "median_amount": 100.0,
+    "top_category": "food",
+    "cleaning_steps": [
+      {
+        "step": "Remove rows without valid date",
+        "before_records": 2461,
+        "after_records": 2461,
+        "removed_records": 0,
+        "details": {
+          "date_source": "source_column"
+        }
+      },
+      {
+        "step": "Remove rows without valid non-negative amount",
+        "before_records": 2461,
+        "after_records": 2461,
+        "removed_records": 0,
+        "details": {
+          "amount_column": "Amount"
+        }
+      },
+      {
+        "step": "Cap high amount outliers at p99 per dataset",
+        "before_records": 2461,
+        "after_records": 2461,
+        "removed_records": 0,
+        "details": {
+          "cap_value": 62292.80000000012,
+          "capped_records": 25
+        }
+      },
+      {
+        "step": "Remove duplicate cleaned transaction keys",
+        "before_records": 2461,
+        "after_records": 2445,
+        "removed_records": 16,
+        "details": {}
+      }
+    ],
+    "output_path": "data/interim/cleaned_separate/daily_household_transactions_cleaned.csv"
+  },
+  "personal_finance": {
+    "dataset_id": "personal_finance",
+    "dataset_name": "Personal Finance Dataset",
+    "domain": "personal_finance",
+    "initial_records": 1500,
+    "final_records": 1500,
+    "removed_records": 0,
+    "retention_pct": 100.0,
+    "date_source": "source_column",
+    "amount_column": "Amount",
+    "category_column": "Category",
+    "capped_records": 15,
+    "amount_cap_p99": 4718.09,
+    "missing_cells_after": 3000,
+    "duplicate_keys_after": 0,
+    "total_amount": 1958971.7200000002,
+    "median_amount": 1156.2849999999999,
+    "top_category": "rent",
+    "cleaning_steps": [
+      {
+        "step": "Remove rows without valid date",
+        "before_records": 1500,
+        "after_records": 1500,
+        "removed_records": 0,
+        "details": {
+          "date_source": "source_column"
+        }
+      },
+      {
+        "step": "Remove rows without valid non-negative amount",
+        "before_records": 1500,
+        "after_records": 1500,
+        "removed_records": 0,
+        "details": {
+          "amount_column": "Amount"
+        }
+      },
+      {
+        "step": "Cap high amount outliers at p99 per dataset",
+        "before_records": 1500,
+        "after_records": 1500,
+        "removed_records": 0,
+        "details": {
+          "cap_value": 4718.09,
+          "capped_records": 15
+        }
+      },
+      {
+        "step": "Remove duplicate cleaned transaction keys",
+        "before_records": 1500,
+        "after_records": 1500,
+        "removed_records": 0,
+        "details": {}
+      }
+    ],
+    "output_path": "data/interim/cleaned_separate/personal_finance_cleaned.csv"
+  }
+}

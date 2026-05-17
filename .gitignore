@@ -20,9 +20,7 @@ env/
 .ipynb_checkpoints/
 *.nbconvert.ipynb
 
-# Generated data outputs
-data/interim/
-data/processed/
+
 
 # Generated reports / figures
 reports/figures/

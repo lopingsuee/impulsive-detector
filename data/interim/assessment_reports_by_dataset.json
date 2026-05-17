@@ -1,0 +1,1773 @@
+{
+  "ecommerce_2024_01_january": {
+    "dataset_info": {
+      "dataset_id": "ecommerce_2024_01_january",
+      "dataset_name": "E-Commerce Sales - January 2024",
+      "domain": "ecommerce_sales",
+      "dataset_period": "2024-01",
+      "source_path": "data/raw/Indonesian_Ecommerce_sales/01_JanuarySales2024_clean.xlsx",
+      "records": 431,
+      "columns": 24,
+      "memory_mb": 0.4486
+    },
+    "schema": {
+      "detected_columns": {
+        "date": "Waktu Pesanan Dibuat",
+        "amount": "Total Pembayaran",
+        "category": "product_categories",
+        "description": "order_id",
+        "transaction_type": "Status Pesanan",
+        "status": "Status Pesanan",
+        "payment_method": "Metode Pembayaran",
+        "city": "Kota/Kabupaten",
+        "province": "Provinsi",
+        "quantity": "total_qty",
+        "order_id": "order_id"
+      },
+      "columns": [
+        "order_id",
+        "total_qty",
+        "total_weight_gr",
+        "total_returned_qty",
+        "Total Diskon",
+        "product_categories",
+        "num_product_categories",
+        "Status Pesanan",
+        "Alasan Pembatalan",
+        "Opsi Pengiriman",
+        "Metode Pembayaran",
+        "Kota/Kabupaten",
+        "Provinsi",
+        "Ongkos Kirim Dibayar oleh Pembeli",
+        "Estimasi Potongan Biaya Pengiriman",
+        "Total Pembayaran",
+        "Perkiraan Ongkos Kirim",
+        "Waktu Pesanan Dibuat",
+        "_dataset_id",
+        "_dataset_name",
+        "_domain",
+        "_dataset_period",
+        "_source_file",
+        "_source_path"
+      ],
+      "dtypes": {
+        "order_id": "object",
+        "total_qty": "int64",
+        "total_weight_gr": "int64",
+        "total_returned_qty": "int64",
+        "Total Diskon": "int64",
+        "product_categories": "object",
+        "num_product_categories": "int64",
+        "Status Pesanan": "object",
+        "Alasan Pembatalan": "object",
+        "Opsi Pengiriman": "object",
+        "Metode Pembayaran": "object",
+        "Kota/Kabupaten": "object",
+        "Provinsi": "object",
+        "Ongkos Kirim Dibayar oleh Pembeli": "int64",
+        "Estimasi Potongan Biaya Pengiriman": "int64",
+        "Total Pembayaran": "int64",
+        "Perkiraan Ongkos Kirim": "int64",
+        "Waktu Pesanan Dibuat": "object",
+        "_dataset_id": "object",
+        "_dataset_name": "object",
+        "_domain": "object",
+        "_dataset_period": "object",
+        "_source_file": "object",
+        "_source_path": "object"
+      }
+    },
+    "missing_values": {
+      "total_missing_cells": 367,
+      "columns_with_missing": 1,
+      "top_missing_columns": [
+        {
+          "column": "Alasan Pembatalan",
+          "missing_count": 367,
+          "missing_pct": 85.15,
+          "present_count": 64
+        },
+        {
+          "column": "order_id",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 431
+        },
+        {
+          "column": "total_qty",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 431
+        },
+        {
+          "column": "total_weight_gr",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 431
+        },
+        {
+          "column": "total_returned_qty",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 431
+        },
+        {
+          "column": "Total Diskon",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 431
+        },
+        {
+          "column": "product_categories",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 431
+        },
+        {
+          "column": "num_product_categories",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 431
+        },
+        {
+          "column": "Status Pesanan",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 431
+        },
+        {
+          "column": "Opsi Pengiriman",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 431
+        },
+        {
+          "column": "Metode Pembayaran",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 431
+        },
+        {
+          "column": "Kota/Kabupaten",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 431
+        }
+      ],
+      "critical_missing": {
+        "date": {
+          "source": "source_column",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "amount": {
+          "source": "Total Pembayaran",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "category": {
+          "source": "product_categories",
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    "date_quality": {
+      "date_column": "Waktu Pesanan Dibuat",
+      "date_source": "source_column",
+      "unparseable_dates": 0,
+      "future_dates": 0,
+      "min_date": "2024-01-01T00:05:00",
+      "max_date": "2024-01-31T22:56:00"
+    },
+    "amount_quality": {
+      "amount_column": "Total Pembayaran",
+      "missing_amounts": 0,
+      "negative_amounts": 0,
+      "zero_amounts": 64,
+      "min": 0,
+      "median": 30000.0,
+      "mean": 56827.102088167056,
+      "max": 1292467
+    },
+    "duplicates": {
+      "exact_duplicates": 0,
+      "subset_columns": [
+        "Waktu Pesanan Dibuat",
+        "Total Pembayaran",
+        "product_categories"
+      ],
+      "subset_duplicates": 2,
+      "subset_duplicate_pct": 0.46
+    },
+    "outliers": {
+      "method": "IQR amount",
+      "lower_bound": -32180.0,
+      "upper_bound": 109100.0,
+      "count": 36,
+      "percentage": 8.35
+    },
+    "category_quality": {
+      "category_column": "product_categories",
+      "unique_categories": 51,
+      "top_categories": {
+        "Celengan": 165,
+        "Mangkok Sambal / Saus": 99,
+        "Rak / Rak Serbaguna": 28,
+        "Seal / Baut / Roof": 18,
+        "Plastik / Wadah Plastik": 15,
+        "Keranjang": 13,
+        "Nampan / Tray": 10,
+        "Lunch Box / Rantang": 10,
+        "Botol / Gelas / Mug": 9,
+        "Other": 6
+      }
+    },
+    "issue_summary": [
+      "Ada potensi duplikasi berdasarkan key date-amount-category",
+      "Ada outlier amount berdasarkan IQR"
+    ]
+  },
+  "ecommerce_2024_06_june": {
+    "dataset_info": {
+      "dataset_id": "ecommerce_2024_06_june",
+      "dataset_name": "E-Commerce Sales - June 2024",
+      "domain": "ecommerce_sales",
+      "dataset_period": "2024-06",
+      "source_path": "data/raw/Indonesian_Ecommerce_sales/02_JuneSales2024_clean.xlsx",
+      "records": 697,
+      "columns": 24,
+      "memory_mb": 0.7156
+    },
+    "schema": {
+      "detected_columns": {
+        "date": "Waktu Pesanan Dibuat",
+        "amount": "Total Pembayaran",
+        "category": "product_categories",
+        "description": "order_id",
+        "transaction_type": "Status Pesanan",
+        "status": "Status Pesanan",
+        "payment_method": "Metode Pembayaran",
+        "city": "Kota/Kabupaten",
+        "province": "Provinsi",
+        "quantity": "total_qty",
+        "order_id": "order_id"
+      },
+      "columns": [
+        "order_id",
+        "total_qty",
+        "total_weight_gr",
+        "total_returned_qty",
+        "Total Diskon",
+        "product_categories",
+        "num_product_categories",
+        "Status Pesanan",
+        "Alasan Pembatalan",
+        "Opsi Pengiriman",
+        "Metode Pembayaran",
+        "Kota/Kabupaten",
+        "Provinsi",
+        "Ongkos Kirim Dibayar oleh Pembeli",
+        "Estimasi Potongan Biaya Pengiriman",
+        "Total Pembayaran",
+        "Perkiraan Ongkos Kirim",
+        "Waktu Pesanan Dibuat",
+        "_dataset_id",
+        "_dataset_name",
+        "_domain",
+        "_dataset_period",
+        "_source_file",
+        "_source_path"
+      ],
+      "dtypes": {
+        "order_id": "object",
+        "total_qty": "int64",
+        "total_weight_gr": "int64",
+        "total_returned_qty": "int64",
+        "Total Diskon": "int64",
+        "product_categories": "object",
+        "num_product_categories": "int64",
+        "Status Pesanan": "object",
+        "Alasan Pembatalan": "object",
+        "Opsi Pengiriman": "object",
+        "Metode Pembayaran": "object",
+        "Kota/Kabupaten": "object",
+        "Provinsi": "object",
+        "Ongkos Kirim Dibayar oleh Pembeli": "int64",
+        "Estimasi Potongan Biaya Pengiriman": "int64",
+        "Total Pembayaran": "int64",
+        "Perkiraan Ongkos Kirim": "int64",
+        "Waktu Pesanan Dibuat": "object",
+        "_dataset_id": "object",
+        "_dataset_name": "object",
+        "_domain": "object",
+        "_dataset_period": "object",
+        "_source_file": "object",
+        "_source_path": "object"
+      }
+    },
+    "missing_values": {
+      "total_missing_cells": 608,
+      "columns_with_missing": 1,
+      "top_missing_columns": [
+        {
+          "column": "Alasan Pembatalan",
+          "missing_count": 608,
+          "missing_pct": 87.23,
+          "present_count": 89
+        },
+        {
+          "column": "order_id",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 697
+        },
+        {
+          "column": "total_qty",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 697
+        },
+        {
+          "column": "total_weight_gr",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 697
+        },
+        {
+          "column": "total_returned_qty",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 697
+        },
+        {
+          "column": "Total Diskon",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 697
+        },
+        {
+          "column": "product_categories",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 697
+        },
+        {
+          "column": "num_product_categories",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 697
+        },
+        {
+          "column": "Status Pesanan",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 697
+        },
+        {
+          "column": "Opsi Pengiriman",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 697
+        },
+        {
+          "column": "Metode Pembayaran",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 697
+        },
+        {
+          "column": "Kota/Kabupaten",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 697
+        }
+      ],
+      "critical_missing": {
+        "date": {
+          "source": "source_column",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "amount": {
+          "source": "Total Pembayaran",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "category": {
+          "source": "product_categories",
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    "date_quality": {
+      "date_column": "Waktu Pesanan Dibuat",
+      "date_source": "source_column",
+      "unparseable_dates": 0,
+      "future_dates": 0,
+      "min_date": "2024-06-01T03:22:00",
+      "max_date": "2024-06-30T23:36:00"
+    },
+    "amount_quality": {
+      "amount_column": "Total Pembayaran",
+      "missing_amounts": 0,
+      "negative_amounts": 0,
+      "zero_amounts": 89,
+      "min": 0,
+      "median": 21696.0,
+      "mean": 46579.5193687231,
+      "max": 1202900
+    },
+    "duplicates": {
+      "exact_duplicates": 0,
+      "subset_columns": [
+        "Waktu Pesanan Dibuat",
+        "Total Pembayaran",
+        "product_categories"
+      ],
+      "subset_duplicates": 0,
+      "subset_duplicate_pct": 0.0
+    },
+    "outliers": {
+      "method": "IQR amount",
+      "lower_bound": -23919.5,
+      "upper_bound": 83716.5,
+      "count": 72,
+      "percentage": 10.33
+    },
+    "category_quality": {
+      "category_column": "product_categories",
+      "unique_categories": 55,
+      "top_categories": {
+        "Celengan": 274,
+        "Mangkok Sambal / Saus": 129,
+        "Aksesoris Pintu": 59,
+        "Lunch Box / Rantang": 44,
+        "Rak / Rak Serbaguna": 32,
+        "Tempat Nasi": 22,
+        "Seal / Baut / Roof": 19,
+        "Nampan / Tray": 13,
+        "Other": 11,
+        "Peralatan Kamar Mandi": 9
+      }
+    },
+    "issue_summary": [
+      "Ada outlier amount berdasarkan IQR"
+    ]
+  },
+  "ecommerce_2024_12_december": {
+    "dataset_info": {
+      "dataset_id": "ecommerce_2024_12_december",
+      "dataset_name": "E-Commerce Sales - December 2024",
+      "domain": "ecommerce_sales",
+      "dataset_period": "2024-12",
+      "source_path": "data/raw/Indonesian_Ecommerce_sales/03_DecemberSales2024_clean.xlsx",
+      "records": 1214,
+      "columns": 23,
+      "memory_mb": 1.1918
+    },
+    "schema": {
+      "detected_columns": {
+        "date": null,
+        "amount": "Total Pembayaran",
+        "category": "product_categories",
+        "description": "order_id",
+        "transaction_type": "Status Pesanan",
+        "status": "Status Pesanan",
+        "payment_method": "Metode Pembayaran",
+        "city": "Kota/Kabupaten",
+        "province": "Provinsi",
+        "quantity": "total_qty",
+        "order_id": "order_id"
+      },
+      "columns": [
+        "order_id",
+        "total_qty",
+        "total_weight_gr",
+        "total_returned_qty",
+        "Total Diskon",
+        "product_categories",
+        "num_product_categories",
+        "Status Pesanan",
+        "Alasan Pembatalan",
+        "Opsi Pengiriman",
+        "Metode Pembayaran",
+        "Kota/Kabupaten",
+        "Provinsi",
+        "Ongkos Kirim Dibayar oleh Pembeli",
+        "Estimasi Potongan Biaya Pengiriman",
+        "Total Pembayaran",
+        "Perkiraan Ongkos Kirim",
+        "_dataset_id",
+        "_dataset_name",
+        "_domain",
+        "_dataset_period",
+        "_source_file",
+        "_source_path"
+      ],
+      "dtypes": {
+        "order_id": "object",
+        "total_qty": "int64",
+        "total_weight_gr": "int64",
+        "total_returned_qty": "int64",
+        "Total Diskon": "int64",
+        "product_categories": "object",
+        "num_product_categories": "int64",
+        "Status Pesanan": "object",
+        "Alasan Pembatalan": "object",
+        "Opsi Pengiriman": "object",
+        "Metode Pembayaran": "object",
+        "Kota/Kabupaten": "object",
+        "Provinsi": "object",
+        "Ongkos Kirim Dibayar oleh Pembeli": "int64",
+        "Estimasi Potongan Biaya Pengiriman": "int64",
+        "Total Pembayaran": "int64",
+        "Perkiraan Ongkos Kirim": "int64",
+        "_dataset_id": "object",
+        "_dataset_name": "object",
+        "_domain": "object",
+        "_dataset_period": "object",
+        "_source_file": "object",
+        "_source_path": "object"
+      }
+    },
+    "missing_values": {
+      "total_missing_cells": 1047,
+      "columns_with_missing": 1,
+      "top_missing_columns": [
+        {
+          "column": "Alasan Pembatalan",
+          "missing_count": 1047,
+          "missing_pct": 86.24,
+          "present_count": 167
+        },
+        {
+          "column": "order_id",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1214
+        },
+        {
+          "column": "total_qty",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1214
+        },
+        {
+          "column": "total_weight_gr",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1214
+        },
+        {
+          "column": "total_returned_qty",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1214
+        },
+        {
+          "column": "Total Diskon",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1214
+        },
+        {
+          "column": "product_categories",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1214
+        },
+        {
+          "column": "num_product_categories",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1214
+        },
+        {
+          "column": "Status Pesanan",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1214
+        },
+        {
+          "column": "Opsi Pengiriman",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1214
+        },
+        {
+          "column": "Metode Pembayaran",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1214
+        },
+        {
+          "column": "Kota/Kabupaten",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1214
+        }
+      ],
+      "critical_missing": {
+        "date": {
+          "source": "dataset_period_from_filename",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "amount": {
+          "source": "Total Pembayaran",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "category": {
+          "source": "product_categories",
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    "date_quality": {
+      "date_column": null,
+      "date_source": "dataset_period_from_filename",
+      "unparseable_dates": 0,
+      "future_dates": 0,
+      "min_date": "2024-12-01T00:00:00",
+      "max_date": "2024-12-01T00:00:00"
+    },
+    "amount_quality": {
+      "amount_column": "Total Pembayaran",
+      "missing_amounts": 0,
+      "negative_amounts": 0,
+      "zero_amounts": 172,
+      "min": 0,
+      "median": 21280.0,
+      "mean": 46178.13673805601,
+      "max": 2692454
+    },
+    "duplicates": {
+      "exact_duplicates": 0,
+      "subset_columns": [
+        "Total Pembayaran",
+        "product_categories"
+      ],
+      "subset_duplicates": 559,
+      "subset_duplicate_pct": 46.05
+    },
+    "outliers": {
+      "method": "IQR amount",
+      "lower_bound": -20532.5,
+      "upper_bound": 72799.5,
+      "count": 117,
+      "percentage": 9.64
+    },
+    "category_quality": {
+      "category_column": "product_categories",
+      "unique_categories": 97,
+      "top_categories": {
+        "Celengan": 368,
+        "Mangkok Sambal / Saus": 207,
+        "Aksesoris Pintu": 181,
+        "Tempat Nasi": 54,
+        "Seal / Baut / Roof": 37,
+        "Saringan / Strainer": 34,
+        "Baskom / Mangkok Besar": 32,
+        "Nampan / Tray": 27,
+        "Keranjang": 26,
+        "Lunch Box / Rantang": 24
+      }
+    },
+    "issue_summary": [
+      "Ada potensi duplikasi berdasarkan key date-amount-category",
+      "Ada outlier amount berdasarkan IQR"
+    ]
+  },
+  "ecommerce_2025_02_february": {
+    "dataset_info": {
+      "dataset_id": "ecommerce_2025_02_february",
+      "dataset_name": "E-Commerce Sales - February 2025",
+      "domain": "ecommerce_sales",
+      "dataset_period": "2025-02",
+      "source_path": "data/raw/Indonesian_Ecommerce_sales/04_FebruarySales2025_clean.xlsx",
+      "records": 957,
+      "columns": 24,
+      "memory_mb": 0.9975
+    },
+    "schema": {
+      "detected_columns": {
+        "date": "Waktu Pesanan Dibuat",
+        "amount": "Total Pembayaran",
+        "category": "product_categories",
+        "description": "order_id",
+        "transaction_type": "Status Pesanan",
+        "status": "Status Pesanan",
+        "payment_method": "Metode Pembayaran",
+        "city": "Kota/Kabupaten",
+        "province": "Provinsi",
+        "quantity": "total_qty",
+        "order_id": "order_id"
+      },
+      "columns": [
+        "order_id",
+        "total_qty",
+        "total_weight_gr",
+        "total_returned_qty",
+        "Total Diskon",
+        "product_categories",
+        "num_product_categories",
+        "Status Pesanan",
+        "Alasan Pembatalan",
+        "Opsi Pengiriman",
+        "Metode Pembayaran",
+        "Kota/Kabupaten",
+        "Provinsi",
+        "Ongkos Kirim Dibayar oleh Pembeli",
+        "Estimasi Potongan Biaya Pengiriman",
+        "Total Pembayaran",
+        "Perkiraan Ongkos Kirim",
+        "Waktu Pesanan Dibuat",
+        "_dataset_id",
+        "_dataset_name",
+        "_domain",
+        "_dataset_period",
+        "_source_file",
+        "_source_path"
+      ],
+      "dtypes": {
+        "order_id": "object",
+        "total_qty": "int64",
+        "total_weight_gr": "int64",
+        "total_returned_qty": "int64",
+        "Total Diskon": "int64",
+        "product_categories": "object",
+        "num_product_categories": "int64",
+        "Status Pesanan": "object",
+        "Alasan Pembatalan": "object",
+        "Opsi Pengiriman": "object",
+        "Metode Pembayaran": "object",
+        "Kota/Kabupaten": "object",
+        "Provinsi": "object",
+        "Ongkos Kirim Dibayar oleh Pembeli": "int64",
+        "Estimasi Potongan Biaya Pengiriman": "int64",
+        "Total Pembayaran": "int64",
+        "Perkiraan Ongkos Kirim": "int64",
+        "Waktu Pesanan Dibuat": "object",
+        "_dataset_id": "object",
+        "_dataset_name": "object",
+        "_domain": "object",
+        "_dataset_period": "object",
+        "_source_file": "object",
+        "_source_path": "object"
+      }
+    },
+    "missing_values": {
+      "total_missing_cells": 835,
+      "columns_with_missing": 1,
+      "top_missing_columns": [
+        {
+          "column": "Alasan Pembatalan",
+          "missing_count": 835,
+          "missing_pct": 87.25,
+          "present_count": 122
+        },
+        {
+          "column": "order_id",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 957
+        },
+        {
+          "column": "total_qty",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 957
+        },
+        {
+          "column": "total_weight_gr",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 957
+        },
+        {
+          "column": "total_returned_qty",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 957
+        },
+        {
+          "column": "Total Diskon",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 957
+        },
+        {
+          "column": "product_categories",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 957
+        },
+        {
+          "column": "num_product_categories",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 957
+        },
+        {
+          "column": "Status Pesanan",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 957
+        },
+        {
+          "column": "Opsi Pengiriman",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 957
+        },
+        {
+          "column": "Metode Pembayaran",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 957
+        },
+        {
+          "column": "Kota/Kabupaten",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 957
+        }
+      ],
+      "critical_missing": {
+        "date": {
+          "source": "source_column",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "amount": {
+          "source": "Total Pembayaran",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "category": {
+          "source": "product_categories",
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    "date_quality": {
+      "date_column": "Waktu Pesanan Dibuat",
+      "date_source": "source_column",
+      "unparseable_dates": 0,
+      "future_dates": 0,
+      "min_date": "2025-02-01T00:40:00",
+      "max_date": "2025-02-28T23:23:00"
+    },
+    "amount_quality": {
+      "amount_column": "Total Pembayaran",
+      "missing_amounts": 0,
+      "negative_amounts": 0,
+      "zero_amounts": 126,
+      "min": 0,
+      "median": 20998.0,
+      "mean": 55473.381400208986,
+      "max": 3023425
+    },
+    "duplicates": {
+      "exact_duplicates": 0,
+      "subset_columns": [
+        "Waktu Pesanan Dibuat",
+        "Total Pembayaran",
+        "product_categories"
+      ],
+      "subset_duplicates": 0,
+      "subset_duplicate_pct": 0.0
+    },
+    "outliers": {
+      "method": "IQR amount",
+      "lower_bound": -34370.0,
+      "upper_bound": 91022.0,
+      "count": 115,
+      "percentage": 12.02
+    },
+    "category_quality": {
+      "category_column": "product_categories",
+      "unique_categories": 87,
+      "top_categories": {
+        "Celengan": 203,
+        "Aksesoris Pintu": 140,
+        "Mangkok Sambal / Saus": 128,
+        "Other": 62,
+        "Saringan / Strainer": 45,
+        "Seal / Baut / Roof": 41,
+        "Rak / Rak Serbaguna": 41,
+        "Keranjang": 36,
+        "Tempat Nasi": 29,
+        "Nampan / Tray": 29
+      }
+    },
+    "issue_summary": [
+      "Ada outlier amount berdasarkan IQR"
+    ]
+  },
+  "ecommerce_2025_07_july": {
+    "dataset_info": {
+      "dataset_id": "ecommerce_2025_07_july",
+      "dataset_name": "E-Commerce Sales - July 2025",
+      "domain": "ecommerce_sales",
+      "dataset_period": "2025-07",
+      "source_path": "data/raw/Indonesian_Ecommerce_sales/05_JulySales2025_clean.xlsx",
+      "records": 766,
+      "columns": 23,
+      "memory_mb": 0.7394
+    },
+    "schema": {
+      "detected_columns": {
+        "date": null,
+        "amount": "Total Pembayaran",
+        "category": "product_categories",
+        "description": "order_id",
+        "transaction_type": "Status Pesanan",
+        "status": "Status Pesanan",
+        "payment_method": "Metode Pembayaran",
+        "city": "Kota/Kabupaten",
+        "province": "Provinsi",
+        "quantity": "total_qty",
+        "order_id": "order_id"
+      },
+      "columns": [
+        "order_id",
+        "total_qty",
+        "total_weight_gr",
+        "total_returned_qty",
+        "Total Diskon",
+        "product_categories",
+        "num_product_categories",
+        "Status Pesanan",
+        "Alasan Pembatalan",
+        "Opsi Pengiriman",
+        "Metode Pembayaran",
+        "Kota/Kabupaten",
+        "Provinsi",
+        "Ongkos Kirim Dibayar oleh Pembeli",
+        "Estimasi Potongan Biaya Pengiriman",
+        "Total Pembayaran",
+        "Perkiraan Ongkos Kirim",
+        "_dataset_id",
+        "_dataset_name",
+        "_domain",
+        "_dataset_period",
+        "_source_file",
+        "_source_path"
+      ],
+      "dtypes": {
+        "order_id": "object",
+        "total_qty": "int64",
+        "total_weight_gr": "int64",
+        "total_returned_qty": "int64",
+        "Total Diskon": "int64",
+        "product_categories": "object",
+        "num_product_categories": "int64",
+        "Status Pesanan": "object",
+        "Alasan Pembatalan": "object",
+        "Opsi Pengiriman": "object",
+        "Metode Pembayaran": "object",
+        "Kota/Kabupaten": "object",
+        "Provinsi": "object",
+        "Ongkos Kirim Dibayar oleh Pembeli": "int64",
+        "Estimasi Potongan Biaya Pengiriman": "int64",
+        "Total Pembayaran": "int64",
+        "Perkiraan Ongkos Kirim": "int64",
+        "_dataset_id": "object",
+        "_dataset_name": "object",
+        "_domain": "object",
+        "_dataset_period": "object",
+        "_source_file": "object",
+        "_source_path": "object"
+      }
+    },
+    "missing_values": {
+      "total_missing_cells": 676,
+      "columns_with_missing": 1,
+      "top_missing_columns": [
+        {
+          "column": "Alasan Pembatalan",
+          "missing_count": 676,
+          "missing_pct": 88.25,
+          "present_count": 90
+        },
+        {
+          "column": "order_id",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 766
+        },
+        {
+          "column": "total_qty",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 766
+        },
+        {
+          "column": "total_weight_gr",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 766
+        },
+        {
+          "column": "total_returned_qty",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 766
+        },
+        {
+          "column": "Total Diskon",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 766
+        },
+        {
+          "column": "product_categories",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 766
+        },
+        {
+          "column": "num_product_categories",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 766
+        },
+        {
+          "column": "Status Pesanan",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 766
+        },
+        {
+          "column": "Opsi Pengiriman",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 766
+        },
+        {
+          "column": "Metode Pembayaran",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 766
+        },
+        {
+          "column": "Kota/Kabupaten",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 766
+        }
+      ],
+      "critical_missing": {
+        "date": {
+          "source": "dataset_period_from_filename",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "amount": {
+          "source": "Total Pembayaran",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "category": {
+          "source": "product_categories",
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    "date_quality": {
+      "date_column": null,
+      "date_source": "dataset_period_from_filename",
+      "unparseable_dates": 0,
+      "future_dates": 0,
+      "min_date": "2025-07-01T00:00:00",
+      "max_date": "2025-07-01T00:00:00"
+    },
+    "amount_quality": {
+      "amount_column": "Total Pembayaran",
+      "missing_amounts": 0,
+      "negative_amounts": 0,
+      "zero_amounts": 91,
+      "min": 0,
+      "median": 19500.0,
+      "mean": 54363.656657963445,
+      "max": 3403591
+    },
+    "duplicates": {
+      "exact_duplicates": 0,
+      "subset_columns": [
+        "Total Pembayaran",
+        "product_categories"
+      ],
+      "subset_duplicates": 374,
+      "subset_duplicate_pct": 48.83
+    },
+    "outliers": {
+      "method": "IQR amount",
+      "lower_bound": -28837.5,
+      "upper_bound": 78462.5,
+      "count": 92,
+      "percentage": 12.01
+    },
+    "category_quality": {
+      "category_column": "product_categories",
+      "unique_categories": 68,
+      "top_categories": {
+        "Aksesoris Pintu": 175,
+        "Mangkok Sambal / Saus": 149,
+        "Nampan / Tray": 141,
+        "Celengan": 63,
+        "Seal / Baut / Roof": 49,
+        "Keranjang": 20,
+        "Rak / Rak Serbaguna": 14,
+        "Lunch Box / Rantang": 13,
+        "Stempel / Alat Kantor": 10,
+        "Other": 9
+      }
+    },
+    "issue_summary": [
+      "Ada potensi duplikasi berdasarkan key date-amount-category",
+      "Ada outlier amount berdasarkan IQR"
+    ]
+  },
+  "ecommerce_2025_11_november": {
+    "dataset_info": {
+      "dataset_id": "ecommerce_2025_11_november",
+      "dataset_name": "E-Commerce Sales - November 2025",
+      "domain": "ecommerce_sales",
+      "dataset_period": "2025-11",
+      "source_path": "data/raw/Indonesian_Ecommerce_sales/06_NovemberSales2025_clean.xlsx",
+      "records": 1131,
+      "columns": 24,
+      "memory_mb": 1.1892
+    },
+    "schema": {
+      "detected_columns": {
+        "date": "Waktu Pesanan Dibuat",
+        "amount": "Total Pembayaran",
+        "category": "product_categories",
+        "description": "order_id",
+        "transaction_type": "Status Pesanan",
+        "status": "Status Pesanan",
+        "payment_method": "Metode Pembayaran",
+        "city": "Kota/Kabupaten",
+        "province": "Provinsi",
+        "quantity": "total_qty",
+        "order_id": "order_id"
+      },
+      "columns": [
+        "order_id",
+        "total_qty",
+        "total_weight_gr",
+        "total_returned_qty",
+        "Total Diskon",
+        "product_categories",
+        "num_product_categories",
+        "Status Pesanan",
+        "Alasan Pembatalan",
+        "Opsi Pengiriman",
+        "Metode Pembayaran",
+        "Kota/Kabupaten",
+        "Provinsi",
+        "Ongkos Kirim Dibayar oleh Pembeli",
+        "Estimasi Potongan Biaya Pengiriman",
+        "Total Pembayaran",
+        "Perkiraan Ongkos Kirim",
+        "Waktu Pesanan Dibuat",
+        "_dataset_id",
+        "_dataset_name",
+        "_domain",
+        "_dataset_period",
+        "_source_file",
+        "_source_path"
+      ],
+      "dtypes": {
+        "order_id": "object",
+        "total_qty": "int64",
+        "total_weight_gr": "int64",
+        "total_returned_qty": "int64",
+        "Total Diskon": "int64",
+        "product_categories": "object",
+        "num_product_categories": "int64",
+        "Status Pesanan": "object",
+        "Alasan Pembatalan": "object",
+        "Opsi Pengiriman": "object",
+        "Metode Pembayaran": "object",
+        "Kota/Kabupaten": "object",
+        "Provinsi": "object",
+        "Ongkos Kirim Dibayar oleh Pembeli": "int64",
+        "Estimasi Potongan Biaya Pengiriman": "int64",
+        "Total Pembayaran": "int64",
+        "Perkiraan Ongkos Kirim": "int64",
+        "Waktu Pesanan Dibuat": "object",
+        "_dataset_id": "object",
+        "_dataset_name": "object",
+        "_domain": "object",
+        "_dataset_period": "object",
+        "_source_file": "object",
+        "_source_path": "object"
+      }
+    },
+    "missing_values": {
+      "total_missing_cells": 1030,
+      "columns_with_missing": 1,
+      "top_missing_columns": [
+        {
+          "column": "Alasan Pembatalan",
+          "missing_count": 1030,
+          "missing_pct": 91.07,
+          "present_count": 101
+        },
+        {
+          "column": "order_id",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1131
+        },
+        {
+          "column": "total_qty",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1131
+        },
+        {
+          "column": "total_weight_gr",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1131
+        },
+        {
+          "column": "total_returned_qty",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1131
+        },
+        {
+          "column": "Total Diskon",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1131
+        },
+        {
+          "column": "product_categories",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1131
+        },
+        {
+          "column": "num_product_categories",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1131
+        },
+        {
+          "column": "Status Pesanan",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1131
+        },
+        {
+          "column": "Opsi Pengiriman",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1131
+        },
+        {
+          "column": "Metode Pembayaran",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1131
+        },
+        {
+          "column": "Kota/Kabupaten",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1131
+        }
+      ],
+      "critical_missing": {
+        "date": {
+          "source": "source_column",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "amount": {
+          "source": "Total Pembayaran",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "category": {
+          "source": "product_categories",
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    "date_quality": {
+      "date_column": "Waktu Pesanan Dibuat",
+      "date_source": "source_column",
+      "unparseable_dates": 0,
+      "future_dates": 0,
+      "min_date": "2025-11-01T06:08:00",
+      "max_date": "2025-11-30T23:17:00"
+    },
+    "amount_quality": {
+      "amount_column": "Total Pembayaran",
+      "missing_amounts": 0,
+      "negative_amounts": 0,
+      "zero_amounts": 109,
+      "min": 0,
+      "median": 18900.0,
+      "mean": 40131.132625994695,
+      "max": 1415660
+    },
+    "duplicates": {
+      "exact_duplicates": 0,
+      "subset_columns": [
+        "Waktu Pesanan Dibuat",
+        "Total Pembayaran",
+        "product_categories"
+      ],
+      "subset_duplicates": 2,
+      "subset_duplicate_pct": 0.18
+    },
+    "outliers": {
+      "method": "IQR amount",
+      "lower_bound": -12518.5,
+      "upper_bound": 60381.5,
+      "count": 125,
+      "percentage": 11.05
+    },
+    "category_quality": {
+      "category_column": "product_categories",
+      "unique_categories": 62,
+      "top_categories": {
+        "Mangkok Sambal / Saus": 438,
+        "Celengan": 236,
+        "Aksesoris Pintu": 190,
+        "Nampan / Tray": 63,
+        "Seal / Baut / Roof": 40,
+        "Other": 16,
+        "Botol / Gelas / Mug": 16,
+        "Keranjang": 13,
+        "Stempel / Alat Kantor": 10,
+        "Bangku / Kursi Kecil": 10
+      }
+    },
+    "issue_summary": [
+      "Ada potensi duplikasi berdasarkan key date-amount-category",
+      "Ada outlier amount berdasarkan IQR"
+    ]
+  },
+  "daily_household_transactions": {
+    "dataset_info": {
+      "dataset_id": "daily_household_transactions",
+      "dataset_name": "Daily Household Transactions",
+      "domain": "household_finance",
+      "dataset_period": null,
+      "source_path": "data/raw/daily_household_transaction/Daily Household Transactions.csv",
+      "records": 2461,
+      "columns": 14,
+      "memory_mb": 1.9606
+    },
+    "schema": {
+      "detected_columns": {
+        "date": "Date",
+        "amount": "Amount",
+        "category": "Category",
+        "description": "Note",
+        "transaction_type": "Income/Expense",
+        "status": null,
+        "payment_method": "Mode",
+        "city": null,
+        "province": null,
+        "quantity": null,
+        "order_id": null
+      },
+      "columns": [
+        "Date",
+        "Mode",
+        "Category",
+        "Subcategory",
+        "Note",
+        "Amount",
+        "Income/Expense",
+        "Currency",
+        "_dataset_id",
+        "_dataset_name",
+        "_domain",
+        "_dataset_period",
+        "_source_file",
+        "_source_path"
+      ],
+      "dtypes": {
+        "Date": "object",
+        "Mode": "object",
+        "Category": "object",
+        "Subcategory": "object",
+        "Note": "object",
+        "Amount": "float64",
+        "Income/Expense": "object",
+        "Currency": "object",
+        "_dataset_id": "object",
+        "_dataset_name": "object",
+        "_domain": "object",
+        "_dataset_period": "float64",
+        "_source_file": "object",
+        "_source_path": "object"
+      }
+    },
+    "missing_values": {
+      "total_missing_cells": 3617,
+      "columns_with_missing": 3,
+      "top_missing_columns": [
+        {
+          "column": "_dataset_period",
+          "missing_count": 2461,
+          "missing_pct": 100.0,
+          "present_count": 0
+        },
+        {
+          "column": "Subcategory",
+          "missing_count": 635,
+          "missing_pct": 25.8,
+          "present_count": 1826
+        },
+        {
+          "column": "Note",
+          "missing_count": 521,
+          "missing_pct": 21.17,
+          "present_count": 1940
+        },
+        {
+          "column": "Date",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 2461
+        },
+        {
+          "column": "Mode",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 2461
+        },
+        {
+          "column": "Category",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 2461
+        },
+        {
+          "column": "Amount",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 2461
+        },
+        {
+          "column": "Income/Expense",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 2461
+        },
+        {
+          "column": "Currency",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 2461
+        },
+        {
+          "column": "_dataset_id",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 2461
+        },
+        {
+          "column": "_dataset_name",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 2461
+        },
+        {
+          "column": "_domain",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 2461
+        }
+      ],
+      "critical_missing": {
+        "date": {
+          "source": "source_column",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "amount": {
+          "source": "Amount",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "category": {
+          "source": "Category",
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    "date_quality": {
+      "date_column": "Date",
+      "date_source": "source_column",
+      "unparseable_dates": 0,
+      "future_dates": 0,
+      "min_date": "2015-01-01T00:00:00",
+      "max_date": "2018-09-20T12:04:08"
+    },
+    "amount_quality": {
+      "amount_column": "Amount",
+      "missing_amounts": 0,
+      "negative_amounts": 0,
+      "zero_amounts": 0,
+      "min": 2.0,
+      "median": 100.0,
+      "mean": 2751.1453799268593,
+      "max": 250000.0
+    },
+    "duplicates": {
+      "exact_duplicates": 9,
+      "subset_columns": [
+        "Date",
+        "Amount",
+        "Category"
+      ],
+      "subset_duplicates": 99,
+      "subset_duplicate_pct": 4.02
+    },
+    "outliers": {
+      "method": "IQR amount",
+      "lower_bound": -1111.0,
+      "upper_bound": 1945.0,
+      "count": 315,
+      "percentage": 12.8
+    },
+    "category_quality": {
+      "category_column": "Category",
+      "unique_categories": 50,
+      "top_categories": {
+        "Food": 907,
+        "Transportation": 307,
+        "Household": 176,
+        "subscription": 143,
+        "Other": 126,
+        "Investment": 103,
+        "Health": 94,
+        "Family": 71,
+        "Apparel": 47,
+        "Recurring Deposit": 47
+      }
+    },
+    "issue_summary": [
+      "Ada potensi duplikasi berdasarkan key date-amount-category",
+      "Ada outlier amount berdasarkan IQR"
+    ]
+  },
+  "personal_finance": {
+    "dataset_info": {
+      "dataset_id": "personal_finance",
+      "dataset_name": "Personal Finance Dataset",
+      "domain": "personal_finance",
+      "dataset_period": null,
+      "source_path": "data/raw/personal_finance/Personal_Finance_Dataset.csv",
+      "records": 1500,
+      "columns": 11,
+      "memory_mb": 0.921
+    },
+    "schema": {
+      "detected_columns": {
+        "date": "Date",
+        "amount": "Amount",
+        "category": "Category",
+        "description": "Transaction Description",
+        "transaction_type": "Type",
+        "status": null,
+        "payment_method": null,
+        "city": null,
+        "province": null,
+        "quantity": null,
+        "order_id": null
+      },
+      "columns": [
+        "Date",
+        "Transaction Description",
+        "Category",
+        "Amount",
+        "Type",
+        "_dataset_id",
+        "_dataset_name",
+        "_domain",
+        "_dataset_period",
+        "_source_file",
+        "_source_path"
+      ],
+      "dtypes": {
+        "Date": "object",
+        "Transaction Description": "object",
+        "Category": "object",
+        "Amount": "float64",
+        "Type": "object",
+        "_dataset_id": "object",
+        "_dataset_name": "object",
+        "_domain": "object",
+        "_dataset_period": "float64",
+        "_source_file": "object",
+        "_source_path": "object"
+      }
+    },
+    "missing_values": {
+      "total_missing_cells": 1500,
+      "columns_with_missing": 1,
+      "top_missing_columns": [
+        {
+          "column": "_dataset_period",
+          "missing_count": 1500,
+          "missing_pct": 100.0,
+          "present_count": 0
+        },
+        {
+          "column": "Date",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1500
+        },
+        {
+          "column": "Transaction Description",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1500
+        },
+        {
+          "column": "Category",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1500
+        },
+        {
+          "column": "Amount",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1500
+        },
+        {
+          "column": "Type",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1500
+        },
+        {
+          "column": "_dataset_id",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1500
+        },
+        {
+          "column": "_dataset_name",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1500
+        },
+        {
+          "column": "_domain",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1500
+        },
+        {
+          "column": "_source_file",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1500
+        },
+        {
+          "column": "_source_path",
+          "missing_count": 0,
+          "missing_pct": 0.0,
+          "present_count": 1500
+        }
+      ],
+      "critical_missing": {
+        "date": {
+          "source": "source_column",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "amount": {
+          "source": "Amount",
+          "count": 0,
+          "percentage": 0.0
+        },
+        "category": {
+          "source": "Category",
+          "count": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    "date_quality": {
+      "date_column": "Date",
+      "date_source": "source_column",
+      "unparseable_dates": 0,
+      "future_dates": 0,
+      "min_date": "2020-01-02T00:00:00",
+      "max_date": "2024-12-29T00:00:00"
+    },
+    "amount_quality": {
+      "amount_column": "Amount",
+      "missing_amounts": 0,
+      "negative_amounts": 0,
+      "zero_amounts": 0,
+      "min": 14.37,
+      "median": 1156.2849999999999,
+      "mean": 1307.5209133333335,
+      "max": 4996.0
+    },
+    "duplicates": {
+      "exact_duplicates": 0,
+      "subset_columns": [
+        "Date",
+        "Amount",
+        "Category"
+      ],
+      "subset_duplicates": 0,
+      "subset_duplicate_pct": 0.0
+    },
+    "outliers": {
+      "method": "IQR amount",
+      "lower_bound": -996.0487500000002,
+      "upper_bound": 3338.32125,
+      "count": 88,
+      "percentage": 5.87
+    },
+    "category_quality": {
+      "category_column": "Category",
+      "unique_categories": 10,
+      "top_categories": {
+        "Rent": 165,
+        "Travel": 160,
+        "Utilities": 157,
+        "Health & Fitness": 152,
+        "Shopping": 150,
+        "Food & Drink": 149,
+        "Salary": 146,
+        "Entertainment": 143,
+        "Investment": 142,
+        "Other": 136
+      }
+    },
+    "issue_summary": [
+      "Ada outlier amount berdasarkan IQR"
+    ]
+  }
+}
