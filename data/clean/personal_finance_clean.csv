@@ -1,0 +1,1501 @@
+tanggal_transaksi,tahun,bulan,tahun_bulan,tipe_transaksi,kategori_clean,amount_idr
+2020-01-02,2020,1,2020-01,Expense,Makanan & Minuman,1485.69
+2020-01-02,2020,1,2020-01,Expense,Tagihan & Rumah,1475.58
+2020-01-04,2020,1,2020-01,Expense,Tagihan & Rumah,1185.08
+2020-01-05,2020,1,2020-01,Income,Pendapatan & Investasi,2291.0
+2020-01-13,2020,1,2020-01,Expense,Makanan & Minuman,1126.88
+2020-01-14,2020,1,2020-01,Expense,Belanja,448.68
+2020-01-18,2020,1,2020-01,Expense,Makanan & Minuman,1520.03
+2020-01-19,2020,1,2020-01,Income,Lainnya,3287.0
+2020-01-21,2020,1,2020-01,Expense,Hiburan,1914.85
+2020-01-25,2020,1,2020-01,Expense,Tagihan & Rumah,766.06
+2020-01-25,2020,1,2020-01,Expense,Kesehatan,1211.41
+2020-01-26,2020,1,2020-01,Expense,Pendapatan & Investasi,1077.09
+2020-01-29,2020,1,2020-01,Expense,Belanja,166.81
+2020-01-30,2020,1,2020-01,Expense,Kesehatan,1158.93
+2020-01-31,2020,1,2020-01,Expense,Makanan & Minuman,1325.91
+2020-01-31,2020,1,2020-01,Expense,Tagihan & Rumah,1712.08
+2020-01-31,2020,1,2020-01,Expense,Belanja,563.17
+2020-02-02,2020,2,2020-02,Expense,Kesehatan,333.68
+2020-02-04,2020,2,2020-02,Expense,Transportasi & Travel,1406.62
+2020-02-05,2020,2,2020-02,Expense,Tagihan & Rumah,1222.17
+2020-02-05,2020,2,2020-02,Income,Pendapatan & Investasi,1838.0
+2020-02-07,2020,2,2020-02,Expense,Transportasi & Travel,1979.15
+2020-02-07,2020,2,2020-02,Expense,Hiburan,1372.38
+2020-02-08,2020,2,2020-02,Income,Lainnya,3786.0
+2020-02-08,2020,2,2020-02,Expense,Makanan & Minuman,465.81
+2020-02-09,2020,2,2020-02,Expense,Hiburan,1827.14
+2020-02-11,2020,2,2020-02,Expense,Kesehatan,433.13
+2020-02-13,2020,2,2020-02,Expense,Pendapatan & Investasi,294.31
+2020-02-15,2020,2,2020-02,Income,Lainnya,4009.0
+2020-02-16,2020,2,2020-02,Expense,Belanja,730.37
+2020-02-16,2020,2,2020-02,Expense,Tagihan & Rumah,1023.96
+2020-02-18,2020,2,2020-02,Income,Pendapatan & Investasi,1398.0
+2020-02-19,2020,2,2020-02,Income,Pendapatan & Investasi,3958.0
+2020-02-20,2020,2,2020-02,Expense,Belanja,769.42
+2020-02-26,2020,2,2020-02,Expense,Transportasi & Travel,1942.45
+2020-02-27,2020,2,2020-02,Expense,Makanan & Minuman,1363.76
+2020-02-28,2020,2,2020-02,Income,Lainnya,3286.0
+2020-02-28,2020,2,2020-02,Income,Lainnya,1795.0
+2020-02-29,2020,2,2020-02,Expense,Transportasi & Travel,1944.06
+2020-03-03,2020,3,2020-03,Expense,Tagihan & Rumah,1742.33
+2020-03-04,2020,3,2020-03,Expense,Hiburan,314.15
+2020-03-04,2020,3,2020-03,Expense,Makanan & Minuman,1201.9
+2020-03-09,2020,3,2020-03,Expense,Tagihan & Rumah,1858.91
+2020-03-09,2020,3,2020-03,Expense,Transportasi & Travel,486.51
+2020-03-11,2020,3,2020-03,Expense,Tagihan & Rumah,180.45
+2020-03-11,2020,3,2020-03,Expense,Tagihan & Rumah,1956.19
+2020-03-12,2020,3,2020-03,Expense,Tagihan & Rumah,537.46
+2020-03-12,2020,3,2020-03,Expense,Tagihan & Rumah,265.5
+2020-03-14,2020,3,2020-03,Expense,Belanja,1929.08
+2020-03-15,2020,3,2020-03,Expense,Hiburan,1428.77
+2020-03-18,2020,3,2020-03,Expense,Kesehatan,881.82
+2020-03-21,2020,3,2020-03,Expense,Tagihan & Rumah,503.33
+2020-03-23,2020,3,2020-03,Income,Pendapatan & Investasi,2385.0
+2020-03-23,2020,3,2020-03,Expense,Makanan & Minuman,151.28
+2020-03-24,2020,3,2020-03,Expense,Hiburan,144.13
+2020-03-28,2020,3,2020-03,Income,Lainnya,1080.0
+2020-04-01,2020,4,2020-04,Expense,Transportasi & Travel,1341.27
+2020-04-05,2020,4,2020-04,Expense,Tagihan & Rumah,1449.47
+2020-04-06,2020,4,2020-04,Expense,Belanja,388.92
+2020-04-06,2020,4,2020-04,Expense,Pendapatan & Investasi,493.56
+2020-04-10,2020,4,2020-04,Income,Lainnya,3402.0
+2020-04-17,2020,4,2020-04,Expense,Pendapatan & Investasi,1729.04
+2020-04-17,2020,4,2020-04,Income,Pendapatan & Investasi,996.0
+2020-04-18,2020,4,2020-04,Expense,Kesehatan,1603.18
+2020-04-22,2020,4,2020-04,Income,Pendapatan & Investasi,2058.0
+2020-04-23,2020,4,2020-04,Expense,Tagihan & Rumah,849.54
+2020-04-25,2020,4,2020-04,Expense,Hiburan,1750.23
+2020-04-26,2020,4,2020-04,Income,Pendapatan & Investasi,914.0
+2020-04-26,2020,4,2020-04,Expense,Makanan & Minuman,1938.3
+2020-04-27,2020,4,2020-04,Expense,Hiburan,1730.65
+2020-04-27,2020,4,2020-04,Expense,Hiburan,340.96
+2020-04-29,2020,4,2020-04,Expense,Tagihan & Rumah,764.16
+2020-04-30,2020,4,2020-04,Expense,Transportasi & Travel,1853.77
+2020-05-01,2020,5,2020-05,Expense,Transportasi & Travel,851.78
+2020-05-03,2020,5,2020-05,Expense,Pendapatan & Investasi,318.05
+2020-05-03,2020,5,2020-05,Expense,Makanan & Minuman,1162.57
+2020-05-05,2020,5,2020-05,Expense,Kesehatan,123.76
+2020-05-06,2020,5,2020-05,Expense,Tagihan & Rumah,123.19
+2020-05-06,2020,5,2020-05,Expense,Tagihan & Rumah,146.36
+2020-05-07,2020,5,2020-05,Income,Pendapatan & Investasi,3807.0
+2020-05-11,2020,5,2020-05,Income,Pendapatan & Investasi,825.0
+2020-05-12,2020,5,2020-05,Expense,Belanja,1318.17
+2020-05-13,2020,5,2020-05,Expense,Kesehatan,1870.07
+2020-05-14,2020,5,2020-05,Expense,Kesehatan,484.99
+2020-05-15,2020,5,2020-05,Expense,Transportasi & Travel,919.88
+2020-05-16,2020,5,2020-05,Expense,Tagihan & Rumah,28.54
+2020-05-17,2020,5,2020-05,Expense,Tagihan & Rumah,155.79
+2020-05-19,2020,5,2020-05,Expense,Transportasi & Travel,273.59
+2020-05-20,2020,5,2020-05,Expense,Tagihan & Rumah,1759.75
+2020-05-21,2020,5,2020-05,Expense,Tagihan & Rumah,881.99
+2020-05-25,2020,5,2020-05,Expense,Transportasi & Travel,1227.24
+2020-05-27,2020,5,2020-05,Expense,Makanan & Minuman,1339.05
+2020-05-28,2020,5,2020-05,Expense,Tagihan & Rumah,1878.47
+2020-05-29,2020,5,2020-05,Income,Pendapatan & Investasi,1376.0
+2020-05-30,2020,5,2020-05,Expense,Tagihan & Rumah,551.97
+2020-05-31,2020,5,2020-05,Expense,Kesehatan,415.16
+2020-05-31,2020,5,2020-05,Expense,Transportasi & Travel,1015.76
+2020-06-01,2020,6,2020-06,Expense,Makanan & Minuman,193.67
+2020-06-02,2020,6,2020-06,Expense,Transportasi & Travel,97.73
+2020-06-05,2020,6,2020-06,Expense,Tagihan & Rumah,1277.86
+2020-06-06,2020,6,2020-06,Expense,Pendapatan & Investasi,1107.84
+2020-06-07,2020,6,2020-06,Expense,Makanan & Minuman,232.63
+2020-06-08,2020,6,2020-06,Expense,Tagihan & Rumah,1095.72
+2020-06-09,2020,6,2020-06,Income,Lainnya,826.0
+2020-06-09,2020,6,2020-06,Expense,Tagihan & Rumah,865.28
+2020-06-10,2020,6,2020-06,Expense,Hiburan,1367.31
+2020-06-10,2020,6,2020-06,Expense,Kesehatan,1562.43
+2020-06-11,2020,6,2020-06,Expense,Belanja,1947.94
+2020-06-11,2020,6,2020-06,Expense,Hiburan,1730.57
+2020-06-12,2020,6,2020-06,Expense,Tagihan & Rumah,1764.02
+2020-06-14,2020,6,2020-06,Income,Lainnya,3872.0
+2020-06-15,2020,6,2020-06,Expense,Hiburan,540.94
+2020-06-18,2020,6,2020-06,Income,Lainnya,2322.0
+2020-06-18,2020,6,2020-06,Expense,Tagihan & Rumah,771.26
+2020-06-18,2020,6,2020-06,Income,Lainnya,3364.0
+2020-06-19,2020,6,2020-06,Expense,Belanja,663.24
+2020-06-19,2020,6,2020-06,Expense,Hiburan,453.62
+2020-06-21,2020,6,2020-06,Expense,Transportasi & Travel,708.78
+2020-06-21,2020,6,2020-06,Expense,Kesehatan,1879.08
+2020-06-22,2020,6,2020-06,Income,Lainnya,1962.0
+2020-06-22,2020,6,2020-06,Expense,Transportasi & Travel,86.13
+2020-06-24,2020,6,2020-06,Expense,Kesehatan,1459.8
+2020-06-30,2020,6,2020-06,Expense,Tagihan & Rumah,776.54
+2020-06-30,2020,6,2020-06,Expense,Transportasi & Travel,98.33
+2020-07-02,2020,7,2020-07,Expense,Hiburan,734.8
+2020-07-03,2020,7,2020-07,Income,Lainnya,3071.0
+2020-07-04,2020,7,2020-07,Expense,Tagihan & Rumah,1442.31
+2020-07-05,2020,7,2020-07,Expense,Transportasi & Travel,1337.12
+2020-07-06,2020,7,2020-07,Expense,Transportasi & Travel,1113.28
+2020-07-06,2020,7,2020-07,Income,Lainnya,1925.0
+2020-07-08,2020,7,2020-07,Expense,Transportasi & Travel,818.09
+2020-07-11,2020,7,2020-07,Expense,Transportasi & Travel,580.96
+2020-07-12,2020,7,2020-07,Expense,Kesehatan,935.33
+2020-07-12,2020,7,2020-07,Expense,Hiburan,1027.24
+2020-07-13,2020,7,2020-07,Expense,Tagihan & Rumah,1321.11
+2020-07-17,2020,7,2020-07,Expense,Kesehatan,195.84
+2020-07-20,2020,7,2020-07,Expense,Hiburan,1348.86
+2020-07-21,2020,7,2020-07,Income,Lainnya,1096.0
+2020-07-21,2020,7,2020-07,Expense,Hiburan,303.23
+2020-07-22,2020,7,2020-07,Expense,Makanan & Minuman,1786.39
+2020-07-22,2020,7,2020-07,Expense,Belanja,495.53
+2020-07-22,2020,7,2020-07,Expense,Hiburan,1439.51
+2020-07-23,2020,7,2020-07,Expense,Tagihan & Rumah,1559.06
+2020-07-24,2020,7,2020-07,Expense,Pendapatan & Investasi,109.93
+2020-07-28,2020,7,2020-07,Expense,Tagihan & Rumah,918.36
+2020-07-28,2020,7,2020-07,Expense,Kesehatan,1900.58
+2020-07-29,2020,7,2020-07,Expense,Belanja,1662.83
+2020-07-30,2020,7,2020-07,Expense,Tagihan & Rumah,1489.87
+2020-07-31,2020,7,2020-07,Expense,Transportasi & Travel,1506.04
+2020-08-01,2020,8,2020-08,Expense,Hiburan,556.45
+2020-08-01,2020,8,2020-08,Income,Lainnya,2420.0
+2020-08-01,2020,8,2020-08,Expense,Transportasi & Travel,1533.97
+2020-08-02,2020,8,2020-08,Expense,Kesehatan,1787.12
+2020-08-03,2020,8,2020-08,Income,Pendapatan & Investasi,2394.0
+2020-08-04,2020,8,2020-08,Expense,Tagihan & Rumah,1415.77
+2020-08-04,2020,8,2020-08,Income,Lainnya,3210.0
+2020-08-04,2020,8,2020-08,Expense,Belanja,133.91
+2020-08-05,2020,8,2020-08,Expense,Belanja,1810.63
+2020-08-05,2020,8,2020-08,Expense,Makanan & Minuman,1714.9
+2020-08-06,2020,8,2020-08,Expense,Belanja,959.19
+2020-08-08,2020,8,2020-08,Expense,Belanja,1081.06
+2020-08-08,2020,8,2020-08,Expense,Transportasi & Travel,1509.42
+2020-08-09,2020,8,2020-08,Expense,Hiburan,981.58
+2020-08-13,2020,8,2020-08,Expense,Pendapatan & Investasi,67.76
+2020-08-14,2020,8,2020-08,Expense,Belanja,1451.12
+2020-08-16,2020,8,2020-08,Expense,Tagihan & Rumah,1961.64
+2020-08-17,2020,8,2020-08,Expense,Belanja,1187.87
+2020-08-18,2020,8,2020-08,Expense,Tagihan & Rumah,1289.07
+2020-08-19,2020,8,2020-08,Income,Lainnya,1988.0
+2020-08-20,2020,8,2020-08,Income,Lainnya,3181.0
+2020-08-21,2020,8,2020-08,Expense,Kesehatan,681.63
+2020-08-21,2020,8,2020-08,Expense,Transportasi & Travel,1506.5
+2020-08-22,2020,8,2020-08,Expense,Transportasi & Travel,1671.47
+2020-08-22,2020,8,2020-08,Expense,Makanan & Minuman,1999.82
+2020-08-26,2020,8,2020-08,Expense,Tagihan & Rumah,1564.65
+2020-08-27,2020,8,2020-08,Income,Pendapatan & Investasi,1748.0
+2020-08-27,2020,8,2020-08,Expense,Makanan & Minuman,1899.73
+2020-08-29,2020,8,2020-08,Expense,Pendapatan & Investasi,1342.22
+2020-08-30,2020,8,2020-08,Expense,Hiburan,935.42
+2020-08-31,2020,8,2020-08,Expense,Kesehatan,343.9
+2020-09-01,2020,9,2020-09,Expense,Tagihan & Rumah,1557.81
+2020-09-05,2020,9,2020-09,Income,Lainnya,1385.0
+2020-09-05,2020,9,2020-09,Expense,Transportasi & Travel,1155.84
+2020-09-06,2020,9,2020-09,Expense,Belanja,799.34
+2020-09-07,2020,9,2020-09,Expense,Tagihan & Rumah,1188.27
+2020-09-08,2020,9,2020-09,Expense,Hiburan,212.78
+2020-09-11,2020,9,2020-09,Expense,Kesehatan,147.22
+2020-09-11,2020,9,2020-09,Expense,Tagihan & Rumah,1594.49
+2020-09-11,2020,9,2020-09,Expense,Makanan & Minuman,700.94
+2020-09-16,2020,9,2020-09,Expense,Makanan & Minuman,1700.66
+2020-09-17,2020,9,2020-09,Expense,Tagihan & Rumah,872.71
+2020-09-17,2020,9,2020-09,Expense,Pendapatan & Investasi,1417.54
+2020-09-18,2020,9,2020-09,Expense,Transportasi & Travel,1235.67
+2020-09-18,2020,9,2020-09,Expense,Pendapatan & Investasi,935.1
+2020-09-22,2020,9,2020-09,Expense,Transportasi & Travel,651.39
+2020-09-22,2020,9,2020-09,Expense,Tagihan & Rumah,565.07
+2020-09-22,2020,9,2020-09,Expense,Pendapatan & Investasi,1144.0
+2020-09-23,2020,9,2020-09,Expense,Tagihan & Rumah,980.22
+2020-09-23,2020,9,2020-09,Expense,Kesehatan,67.11
+2020-09-25,2020,9,2020-09,Expense,Transportasi & Travel,687.27
+2020-09-27,2020,9,2020-09,Expense,Transportasi & Travel,1116.02
+2020-09-27,2020,9,2020-09,Expense,Hiburan,180.37
+2020-09-27,2020,9,2020-09,Expense,Pendapatan & Investasi,1114.8
+2020-09-29,2020,9,2020-09,Expense,Pendapatan & Investasi,1295.35
+2020-09-30,2020,9,2020-09,Expense,Makanan & Minuman,195.18
+2020-10-01,2020,10,2020-10,Expense,Hiburan,619.35
+2020-10-03,2020,10,2020-10,Expense,Pendapatan & Investasi,1111.41
+2020-10-04,2020,10,2020-10,Expense,Kesehatan,710.1
+2020-10-07,2020,10,2020-10,Income,Pendapatan & Investasi,3084.0
+2020-10-07,2020,10,2020-10,Income,Pendapatan & Investasi,2069.0
+2020-10-07,2020,10,2020-10,Expense,Transportasi & Travel,510.29
+2020-10-08,2020,10,2020-10,Expense,Pendapatan & Investasi,560.23
+2020-10-08,2020,10,2020-10,Expense,Transportasi & Travel,1961.22
+2020-10-10,2020,10,2020-10,Expense,Transportasi & Travel,462.69
+2020-10-10,2020,10,2020-10,Income,Pendapatan & Investasi,4875.0
+2020-10-10,2020,10,2020-10,Income,Pendapatan & Investasi,946.0
+2020-10-12,2020,10,2020-10,Expense,Tagihan & Rumah,1279.36
+2020-10-14,2020,10,2020-10,Expense,Tagihan & Rumah,1746.71
+2020-10-15,2020,10,2020-10,Expense,Pendapatan & Investasi,962.64
+2020-10-16,2020,10,2020-10,Expense,Tagihan & Rumah,1158.27
+2020-10-16,2020,10,2020-10,Expense,Tagihan & Rumah,1646.01
+2020-10-16,2020,10,2020-10,Expense,Makanan & Minuman,512.43
+2020-10-18,2020,10,2020-10,Expense,Tagihan & Rumah,306.9
+2020-10-19,2020,10,2020-10,Expense,Transportasi & Travel,179.51
+2020-10-23,2020,10,2020-10,Expense,Belanja,1216.57
+2020-10-24,2020,10,2020-10,Expense,Hiburan,1553.63
+2020-10-26,2020,10,2020-10,Expense,Pendapatan & Investasi,601.73
+2020-10-27,2020,10,2020-10,Expense,Belanja,617.71
+2020-10-27,2020,10,2020-10,Expense,Tagihan & Rumah,1895.7
+2020-10-27,2020,10,2020-10,Expense,Hiburan,536.65
+2020-10-28,2020,10,2020-10,Income,Pendapatan & Investasi,1923.0
+2020-10-29,2020,10,2020-10,Expense,Tagihan & Rumah,15.32
+2020-10-30,2020,10,2020-10,Expense,Pendapatan & Investasi,589.61
+2020-10-31,2020,10,2020-10,Expense,Transportasi & Travel,1408.95
+2020-11-01,2020,11,2020-11,Expense,Hiburan,1848.58
+2020-11-01,2020,11,2020-11,Expense,Hiburan,856.03
+2020-11-02,2020,11,2020-11,Expense,Tagihan & Rumah,1817.74
+2020-11-04,2020,11,2020-11,Expense,Tagihan & Rumah,128.68
+2020-11-06,2020,11,2020-11,Expense,Transportasi & Travel,883.92
+2020-11-07,2020,11,2020-11,Expense,Transportasi & Travel,1402.47
+2020-11-09,2020,11,2020-11,Expense,Pendapatan & Investasi,881.14
+2020-11-10,2020,11,2020-11,Expense,Belanja,1471.72
+2020-11-10,2020,11,2020-11,Expense,Makanan & Minuman,191.74
+2020-11-12,2020,11,2020-11,Expense,Transportasi & Travel,1156.73
+2020-11-12,2020,11,2020-11,Expense,Makanan & Minuman,1999.15
+2020-11-14,2020,11,2020-11,Expense,Tagihan & Rumah,946.3
+2020-11-14,2020,11,2020-11,Expense,Transportasi & Travel,371.16
+2020-11-14,2020,11,2020-11,Expense,Pendapatan & Investasi,1938.42
+2020-11-14,2020,11,2020-11,Expense,Belanja,673.28
+2020-11-15,2020,11,2020-11,Expense,Tagihan & Rumah,666.31
+2020-11-15,2020,11,2020-11,Expense,Transportasi & Travel,1328.54
+2020-11-16,2020,11,2020-11,Expense,Makanan & Minuman,915.1
+2020-11-16,2020,11,2020-11,Expense,Kesehatan,240.68
+2020-11-17,2020,11,2020-11,Expense,Makanan & Minuman,1318.74
+2020-11-20,2020,11,2020-11,Expense,Belanja,117.87
+2020-11-22,2020,11,2020-11,Expense,Pendapatan & Investasi,1254.56
+2020-11-23,2020,11,2020-11,Expense,Hiburan,541.44
+2020-11-25,2020,11,2020-11,Income,Lainnya,4089.0
+2020-11-25,2020,11,2020-11,Expense,Pendapatan & Investasi,251.64
+2020-11-26,2020,11,2020-11,Expense,Hiburan,1422.47
+2020-11-27,2020,11,2020-11,Expense,Makanan & Minuman,1108.98
+2020-11-27,2020,11,2020-11,Income,Pendapatan & Investasi,4280.0
+2020-11-29,2020,11,2020-11,Expense,Tagihan & Rumah,1001.77
+2020-12-01,2020,12,2020-12,Expense,Transportasi & Travel,836.83
+2020-12-05,2020,12,2020-12,Expense,Pendapatan & Investasi,495.02
+2020-12-05,2020,12,2020-12,Expense,Belanja,389.31
+2020-12-06,2020,12,2020-12,Expense,Tagihan & Rumah,1729.41
+2020-12-10,2020,12,2020-12,Expense,Transportasi & Travel,1642.89
+2020-12-10,2020,12,2020-12,Expense,Belanja,686.35
+2020-12-11,2020,12,2020-12,Expense,Transportasi & Travel,1676.58
+2020-12-12,2020,12,2020-12,Expense,Pendapatan & Investasi,1731.87
+2020-12-13,2020,12,2020-12,Expense,Pendapatan & Investasi,696.8
+2020-12-14,2020,12,2020-12,Expense,Belanja,916.14
+2020-12-14,2020,12,2020-12,Expense,Hiburan,1961.74
+2020-12-16,2020,12,2020-12,Expense,Belanja,474.79
+2020-12-16,2020,12,2020-12,Expense,Makanan & Minuman,643.17
+2020-12-16,2020,12,2020-12,Expense,Belanja,778.3
+2020-12-18,2020,12,2020-12,Income,Lainnya,1322.0
+2020-12-18,2020,12,2020-12,Expense,Tagihan & Rumah,995.7
+2020-12-20,2020,12,2020-12,Expense,Makanan & Minuman,1447.66
+2020-12-20,2020,12,2020-12,Expense,Pendapatan & Investasi,208.43
+2020-12-22,2020,12,2020-12,Expense,Tagihan & Rumah,158.91
+2020-12-23,2020,12,2020-12,Expense,Transportasi & Travel,683.74
+2020-12-23,2020,12,2020-12,Expense,Tagihan & Rumah,1705.01
+2020-12-24,2020,12,2020-12,Expense,Belanja,1908.74
+2020-12-25,2020,12,2020-12,Expense,Pendapatan & Investasi,1746.04
+2020-12-26,2020,12,2020-12,Income,Pendapatan & Investasi,2423.0
+2020-12-28,2020,12,2020-12,Expense,Transportasi & Travel,1994.88
+2020-12-30,2020,12,2020-12,Expense,Belanja,1956.89
+2020-12-31,2020,12,2020-12,Expense,Tagihan & Rumah,892.92
+2021-01-01,2021,1,2021-01,Expense,Makanan & Minuman,101.52
+2021-01-06,2021,1,2021-01,Expense,Hiburan,1067.02
+2021-01-06,2021,1,2021-01,Expense,Transportasi & Travel,723.34
+2021-01-08,2021,1,2021-01,Expense,Tagihan & Rumah,348.27
+2021-01-10,2021,1,2021-01,Income,Lainnya,2472.0
+2021-01-10,2021,1,2021-01,Expense,Tagihan & Rumah,472.06
+2021-01-11,2021,1,2021-01,Expense,Pendapatan & Investasi,518.1
+2021-01-12,2021,1,2021-01,Income,Lainnya,2856.0
+2021-01-13,2021,1,2021-01,Expense,Tagihan & Rumah,156.99
+2021-01-13,2021,1,2021-01,Expense,Transportasi & Travel,1281.49
+2021-01-14,2021,1,2021-01,Expense,Transportasi & Travel,919.1
+2021-01-14,2021,1,2021-01,Expense,Belanja,1708.14
+2021-01-15,2021,1,2021-01,Expense,Transportasi & Travel,53.66
+2021-01-15,2021,1,2021-01,Income,Lainnya,3440.0
+2021-01-17,2021,1,2021-01,Expense,Belanja,556.22
+2021-01-17,2021,1,2021-01,Expense,Makanan & Minuman,1822.13
+2021-01-19,2021,1,2021-01,Expense,Transportasi & Travel,1553.72
+2021-01-20,2021,1,2021-01,Expense,Kesehatan,445.82
+2021-01-24,2021,1,2021-01,Income,Lainnya,1620.0
+2021-01-26,2021,1,2021-01,Expense,Makanan & Minuman,624.78
+2021-01-27,2021,1,2021-01,Expense,Kesehatan,1467.4
+2021-01-27,2021,1,2021-01,Income,Lainnya,3176.0
+2021-01-27,2021,1,2021-01,Expense,Tagihan & Rumah,409.58
+2021-01-27,2021,1,2021-01,Expense,Kesehatan,1066.4
+2021-01-29,2021,1,2021-01,Expense,Tagihan & Rumah,521.37
+2021-02-02,2021,2,2021-02,Expense,Pendapatan & Investasi,1935.09
+2021-02-05,2021,2,2021-02,Expense,Kesehatan,1610.42
+2021-02-05,2021,2,2021-02,Expense,Tagihan & Rumah,290.11
+2021-02-08,2021,2,2021-02,Expense,Belanja,1934.87
+2021-02-08,2021,2,2021-02,Expense,Kesehatan,189.7
+2021-02-09,2021,2,2021-02,Expense,Transportasi & Travel,1077.78
+2021-02-09,2021,2,2021-02,Expense,Transportasi & Travel,1173.27
+2021-02-11,2021,2,2021-02,Expense,Kesehatan,225.61
+2021-02-11,2021,2,2021-02,Expense,Makanan & Minuman,1242.9
+2021-02-13,2021,2,2021-02,Expense,Kesehatan,1831.36
+2021-02-16,2021,2,2021-02,Expense,Tagihan & Rumah,1274.45
+2021-02-18,2021,2,2021-02,Expense,Transportasi & Travel,1301.99
+2021-02-19,2021,2,2021-02,Income,Pendapatan & Investasi,804.0
+2021-02-20,2021,2,2021-02,Expense,Pendapatan & Investasi,241.08
+2021-02-21,2021,2,2021-02,Expense,Tagihan & Rumah,783.41
+2021-02-23,2021,2,2021-02,Expense,Belanja,1178.81
+2021-02-24,2021,2,2021-02,Expense,Belanja,1313.29
+2021-02-27,2021,2,2021-02,Expense,Belanja,1878.72
+2021-02-28,2021,2,2021-02,Expense,Kesehatan,442.37
+2021-03-02,2021,3,2021-03,Income,Lainnya,4960.0
+2021-03-02,2021,3,2021-03,Expense,Kesehatan,130.49
+2021-03-02,2021,3,2021-03,Expense,Hiburan,1712.35
+2021-03-04,2021,3,2021-03,Expense,Tagihan & Rumah,1898.53
+2021-03-05,2021,3,2021-03,Expense,Tagihan & Rumah,1328.91
+2021-03-05,2021,3,2021-03,Expense,Makanan & Minuman,110.65
+2021-03-07,2021,3,2021-03,Expense,Tagihan & Rumah,1576.09
+2021-03-07,2021,3,2021-03,Expense,Hiburan,1176.9
+2021-03-08,2021,3,2021-03,Expense,Hiburan,663.83
+2021-03-09,2021,3,2021-03,Income,Pendapatan & Investasi,2771.0
+2021-03-09,2021,3,2021-03,Expense,Tagihan & Rumah,1975.18
+2021-03-10,2021,3,2021-03,Expense,Tagihan & Rumah,228.75
+2021-03-12,2021,3,2021-03,Expense,Tagihan & Rumah,39.57
+2021-03-15,2021,3,2021-03,Income,Lainnya,929.0
+2021-03-15,2021,3,2021-03,Expense,Hiburan,1181.82
+2021-03-16,2021,3,2021-03,Income,Lainnya,4809.0
+2021-03-16,2021,3,2021-03,Income,Pendapatan & Investasi,4401.0
+2021-03-17,2021,3,2021-03,Expense,Kesehatan,1031.34
+2021-03-17,2021,3,2021-03,Income,Pendapatan & Investasi,855.0
+2021-03-18,2021,3,2021-03,Expense,Transportasi & Travel,921.5
+2021-03-19,2021,3,2021-03,Expense,Makanan & Minuman,1997.19
+2021-03-20,2021,3,2021-03,Expense,Belanja,1375.33
+2021-03-21,2021,3,2021-03,Expense,Pendapatan & Investasi,156.25
+2021-03-22,2021,3,2021-03,Expense,Transportasi & Travel,912.89
+2021-03-22,2021,3,2021-03,Income,Lainnya,3620.0
+2021-03-22,2021,3,2021-03,Income,Pendapatan & Investasi,1038.0
+2021-03-23,2021,3,2021-03,Expense,Tagihan & Rumah,1588.26
+2021-03-23,2021,3,2021-03,Income,Pendapatan & Investasi,4023.0
+2021-03-24,2021,3,2021-03,Expense,Hiburan,833.49
+2021-03-25,2021,3,2021-03,Expense,Belanja,837.82
+2021-03-26,2021,3,2021-03,Income,Lainnya,3060.0
+2021-03-27,2021,3,2021-03,Expense,Kesehatan,1907.65
+2021-03-28,2021,3,2021-03,Expense,Pendapatan & Investasi,143.6
+2021-03-29,2021,3,2021-03,Expense,Tagihan & Rumah,869.43
+2021-03-30,2021,3,2021-03,Expense,Kesehatan,1625.42
+2021-04-01,2021,4,2021-04,Expense,Kesehatan,1343.33
+2021-04-02,2021,4,2021-04,Expense,Belanja,1737.5
+2021-04-03,2021,4,2021-04,Expense,Hiburan,317.91
+2021-04-03,2021,4,2021-04,Expense,Transportasi & Travel,1204.82
+2021-04-03,2021,4,2021-04,Expense,Tagihan & Rumah,706.73
+2021-04-08,2021,4,2021-04,Expense,Belanja,1691.86
+2021-04-08,2021,4,2021-04,Expense,Tagihan & Rumah,1527.59
+2021-04-09,2021,4,2021-04,Expense,Makanan & Minuman,1221.9
+2021-04-11,2021,4,2021-04,Expense,Transportasi & Travel,67.62
+2021-04-11,2021,4,2021-04,Expense,Transportasi & Travel,1843.86
+2021-04-12,2021,4,2021-04,Expense,Tagihan & Rumah,1741.03
+2021-04-13,2021,4,2021-04,Expense,Belanja,148.47
+2021-04-18,2021,4,2021-04,Expense,Makanan & Minuman,192.6
+2021-04-19,2021,4,2021-04,Expense,Belanja,845.47
+2021-04-19,2021,4,2021-04,Expense,Kesehatan,630.16
+2021-04-19,2021,4,2021-04,Expense,Tagihan & Rumah,1767.85
+2021-04-19,2021,4,2021-04,Income,Pendapatan & Investasi,1168.0
+2021-04-21,2021,4,2021-04,Expense,Belanja,976.47
+2021-04-23,2021,4,2021-04,Expense,Transportasi & Travel,438.98
+2021-04-23,2021,4,2021-04,Expense,Kesehatan,865.53
+2021-04-24,2021,4,2021-04,Expense,Pendapatan & Investasi,1058.6
+2021-04-27,2021,4,2021-04,Expense,Hiburan,796.57
+2021-04-27,2021,4,2021-04,Expense,Makanan & Minuman,416.8
+2021-04-27,2021,4,2021-04,Expense,Tagihan & Rumah,1530.68
+2021-04-30,2021,4,2021-04,Expense,Tagihan & Rumah,25.38
+2021-05-02,2021,5,2021-05,Expense,Tagihan & Rumah,267.08
+2021-05-04,2021,5,2021-05,Expense,Hiburan,1005.52
+2021-05-04,2021,5,2021-05,Expense,Kesehatan,153.43
+2021-05-06,2021,5,2021-05,Expense,Makanan & Minuman,878.08
+2021-05-07,2021,5,2021-05,Expense,Tagihan & Rumah,816.01
+2021-05-07,2021,5,2021-05,Expense,Tagihan & Rumah,1725.6
+2021-05-07,2021,5,2021-05,Expense,Belanja,1421.9
+2021-05-10,2021,5,2021-05,Expense,Tagihan & Rumah,1604.63
+2021-05-11,2021,5,2021-05,Expense,Kesehatan,185.38
+2021-05-11,2021,5,2021-05,Expense,Hiburan,877.0
+2021-05-12,2021,5,2021-05,Expense,Tagihan & Rumah,797.58
+2021-05-14,2021,5,2021-05,Expense,Kesehatan,450.93
+2021-05-14,2021,5,2021-05,Expense,Tagihan & Rumah,1025.86
+2021-05-15,2021,5,2021-05,Income,Pendapatan & Investasi,3362.0
+2021-05-17,2021,5,2021-05,Expense,Tagihan & Rumah,480.18
+2021-05-19,2021,5,2021-05,Income,Pendapatan & Investasi,1921.0
+2021-05-22,2021,5,2021-05,Expense,Tagihan & Rumah,362.52
+2021-05-23,2021,5,2021-05,Expense,Pendapatan & Investasi,933.27
+2021-05-24,2021,5,2021-05,Expense,Pendapatan & Investasi,1365.46
+2021-05-24,2021,5,2021-05,Expense,Kesehatan,1729.85
+2021-05-24,2021,5,2021-05,Expense,Tagihan & Rumah,885.13
+2021-05-25,2021,5,2021-05,Expense,Transportasi & Travel,1594.7
+2021-05-25,2021,5,2021-05,Expense,Kesehatan,1019.6
+2021-05-27,2021,5,2021-05,Expense,Pendapatan & Investasi,84.84
+2021-05-27,2021,5,2021-05,Expense,Transportasi & Travel,162.69
+2021-05-29,2021,5,2021-05,Expense,Tagihan & Rumah,1233.87
+2021-05-30,2021,5,2021-05,Expense,Pendapatan & Investasi,1164.86
+2021-05-31,2021,5,2021-05,Expense,Hiburan,649.84
+2021-05-31,2021,5,2021-05,Expense,Makanan & Minuman,904.97
+2021-06-02,2021,6,2021-06,Expense,Tagihan & Rumah,1915.87
+2021-06-02,2021,6,2021-06,Expense,Kesehatan,1964.95
+2021-06-03,2021,6,2021-06,Income,Pendapatan & Investasi,820.0
+2021-06-06,2021,6,2021-06,Expense,Pendapatan & Investasi,1982.06
+2021-06-06,2021,6,2021-06,Expense,Tagihan & Rumah,734.16
+2021-06-06,2021,6,2021-06,Expense,Belanja,823.45
+2021-06-09,2021,6,2021-06,Expense,Makanan & Minuman,1580.56
+2021-06-11,2021,6,2021-06,Expense,Tagihan & Rumah,666.08
+2021-06-11,2021,6,2021-06,Expense,Belanja,575.45
+2021-06-14,2021,6,2021-06,Expense,Tagihan & Rumah,673.39
+2021-06-15,2021,6,2021-06,Expense,Tagihan & Rumah,1834.33
+2021-06-16,2021,6,2021-06,Expense,Belanja,266.61
+2021-06-20,2021,6,2021-06,Expense,Tagihan & Rumah,626.07
+2021-06-20,2021,6,2021-06,Expense,Kesehatan,1628.24
+2021-06-22,2021,6,2021-06,Expense,Tagihan & Rumah,1295.59
+2021-06-23,2021,6,2021-06,Expense,Kesehatan,46.28
+2021-06-24,2021,6,2021-06,Expense,Hiburan,690.05
+2021-06-26,2021,6,2021-06,Expense,Hiburan,460.82
+2021-06-27,2021,6,2021-06,Income,Pendapatan & Investasi,2923.0
+2021-06-28,2021,6,2021-06,Expense,Tagihan & Rumah,1198.52
+2021-06-28,2021,6,2021-06,Income,Pendapatan & Investasi,1856.0
+2021-06-28,2021,6,2021-06,Expense,Tagihan & Rumah,1020.3
+2021-06-28,2021,6,2021-06,Expense,Makanan & Minuman,1327.24
+2021-06-29,2021,6,2021-06,Expense,Makanan & Minuman,827.61
+2021-07-04,2021,7,2021-07,Expense,Hiburan,1939.48
+2021-07-04,2021,7,2021-07,Expense,Pendapatan & Investasi,475.67
+2021-07-04,2021,7,2021-07,Expense,Pendapatan & Investasi,1808.91
+2021-07-06,2021,7,2021-07,Income,Lainnya,4282.0
+2021-07-07,2021,7,2021-07,Expense,Belanja,1010.78
+2021-07-09,2021,7,2021-07,Expense,Tagihan & Rumah,1635.61
+2021-07-09,2021,7,2021-07,Expense,Tagihan & Rumah,1747.27
+2021-07-10,2021,7,2021-07,Expense,Tagihan & Rumah,1425.69
+2021-07-10,2021,7,2021-07,Income,Lainnya,3540.0
+2021-07-11,2021,7,2021-07,Expense,Tagihan & Rumah,577.28
+2021-07-11,2021,7,2021-07,Expense,Transportasi & Travel,904.15
+2021-07-11,2021,7,2021-07,Expense,Belanja,192.51
+2021-07-12,2021,7,2021-07,Expense,Pendapatan & Investasi,1770.41
+2021-07-13,2021,7,2021-07,Expense,Belanja,115.98
+2021-07-14,2021,7,2021-07,Expense,Hiburan,778.47
+2021-07-15,2021,7,2021-07,Income,Pendapatan & Investasi,730.0
+2021-07-19,2021,7,2021-07,Expense,Tagihan & Rumah,1679.96
+2021-07-19,2021,7,2021-07,Expense,Tagihan & Rumah,283.82
+2021-07-23,2021,7,2021-07,Income,Lainnya,4174.0
+2021-07-23,2021,7,2021-07,Expense,Pendapatan & Investasi,1395.18
+2021-07-24,2021,7,2021-07,Expense,Tagihan & Rumah,47.82
+2021-07-28,2021,7,2021-07,Expense,Tagihan & Rumah,1102.12
+2021-07-29,2021,7,2021-07,Expense,Belanja,231.26
+2021-08-02,2021,8,2021-08,Expense,Transportasi & Travel,252.48
+2021-08-06,2021,8,2021-08,Expense,Pendapatan & Investasi,134.99
+2021-08-07,2021,8,2021-08,Expense,Pendapatan & Investasi,1197.51
+2021-08-07,2021,8,2021-08,Income,Pendapatan & Investasi,1676.0
+2021-08-08,2021,8,2021-08,Expense,Makanan & Minuman,1233.47
+2021-08-09,2021,8,2021-08,Expense,Belanja,382.75
+2021-08-11,2021,8,2021-08,Expense,Kesehatan,144.68
+2021-08-13,2021,8,2021-08,Expense,Makanan & Minuman,787.0
+2021-08-13,2021,8,2021-08,Expense,Belanja,1962.27
+2021-08-15,2021,8,2021-08,Expense,Makanan & Minuman,720.62
+2021-08-16,2021,8,2021-08,Income,Pendapatan & Investasi,1349.0
+2021-08-18,2021,8,2021-08,Expense,Kesehatan,275.49
+2021-08-20,2021,8,2021-08,Expense,Kesehatan,1628.88
+2021-08-21,2021,8,2021-08,Income,Lainnya,4420.0
+2021-08-21,2021,8,2021-08,Expense,Tagihan & Rumah,135.57
+2021-08-22,2021,8,2021-08,Expense,Pendapatan & Investasi,83.6
+2021-08-23,2021,8,2021-08,Expense,Hiburan,1772.72
+2021-08-24,2021,8,2021-08,Expense,Transportasi & Travel,1035.61
+2021-08-25,2021,8,2021-08,Expense,Pendapatan & Investasi,514.09
+2021-08-27,2021,8,2021-08,Expense,Hiburan,579.36
+2021-08-29,2021,8,2021-08,Expense,Makanan & Minuman,1732.94
+2021-09-05,2021,9,2021-09,Expense,Tagihan & Rumah,1600.69
+2021-09-06,2021,9,2021-09,Expense,Belanja,1489.18
+2021-09-09,2021,9,2021-09,Expense,Belanja,684.68
+2021-09-09,2021,9,2021-09,Income,Lainnya,3509.0
+2021-09-09,2021,9,2021-09,Expense,Transportasi & Travel,1604.28
+2021-09-10,2021,9,2021-09,Expense,Tagihan & Rumah,866.91
+2021-09-11,2021,9,2021-09,Expense,Tagihan & Rumah,1095.49
+2021-09-11,2021,9,2021-09,Expense,Tagihan & Rumah,662.56
+2021-09-11,2021,9,2021-09,Expense,Pendapatan & Investasi,1209.22
+2021-09-11,2021,9,2021-09,Expense,Pendapatan & Investasi,709.58
+2021-09-15,2021,9,2021-09,Income,Lainnya,4063.0
+2021-09-16,2021,9,2021-09,Expense,Kesehatan,1031.04
+2021-09-16,2021,9,2021-09,Expense,Makanan & Minuman,159.33
+2021-09-17,2021,9,2021-09,Expense,Tagihan & Rumah,1906.05
+2021-09-17,2021,9,2021-09,Income,Lainnya,785.0
+2021-09-19,2021,9,2021-09,Income,Pendapatan & Investasi,3500.0
+2021-09-19,2021,9,2021-09,Expense,Makanan & Minuman,1214.14
+2021-09-19,2021,9,2021-09,Expense,Kesehatan,750.31
+2021-09-19,2021,9,2021-09,Expense,Tagihan & Rumah,1063.63
+2021-09-20,2021,9,2021-09,Expense,Transportasi & Travel,506.73
+2021-09-21,2021,9,2021-09,Income,Pendapatan & Investasi,4588.0
+2021-09-28,2021,9,2021-09,Expense,Tagihan & Rumah,530.94
+2021-10-01,2021,10,2021-10,Expense,Pendapatan & Investasi,437.0
+2021-10-07,2021,10,2021-10,Expense,Pendapatan & Investasi,408.35
+2021-10-08,2021,10,2021-10,Income,Pendapatan & Investasi,4203.0
+2021-10-13,2021,10,2021-10,Income,Lainnya,1219.0
+2021-10-13,2021,10,2021-10,Expense,Kesehatan,1339.0
+2021-10-13,2021,10,2021-10,Expense,Transportasi & Travel,1783.75
+2021-10-16,2021,10,2021-10,Expense,Tagihan & Rumah,1589.46
+2021-10-20,2021,10,2021-10,Expense,Tagihan & Rumah,1970.41
+2021-10-21,2021,10,2021-10,Expense,Hiburan,1582.84
+2021-10-22,2021,10,2021-10,Income,Lainnya,4328.0
+2021-10-24,2021,10,2021-10,Expense,Tagihan & Rumah,1227.78
+2021-10-24,2021,10,2021-10,Income,Lainnya,3761.0
+2021-10-27,2021,10,2021-10,Expense,Pendapatan & Investasi,1056.13
+2021-10-27,2021,10,2021-10,Expense,Tagihan & Rumah,259.4
+2021-10-30,2021,10,2021-10,Expense,Tagihan & Rumah,905.45
+2021-11-03,2021,11,2021-11,Expense,Kesehatan,265.39
+2021-11-04,2021,11,2021-11,Expense,Tagihan & Rumah,1537.89
+2021-11-05,2021,11,2021-11,Income,Pendapatan & Investasi,1517.0
+2021-11-05,2021,11,2021-11,Expense,Transportasi & Travel,337.67
+2021-11-06,2021,11,2021-11,Expense,Hiburan,698.59
+2021-11-07,2021,11,2021-11,Expense,Transportasi & Travel,1693.41
+2021-11-10,2021,11,2021-11,Expense,Transportasi & Travel,259.09
+2021-11-15,2021,11,2021-11,Expense,Tagihan & Rumah,1010.12
+2021-11-16,2021,11,2021-11,Income,Pendapatan & Investasi,1902.0
+2021-11-17,2021,11,2021-11,Expense,Kesehatan,1686.63
+2021-11-18,2021,11,2021-11,Expense,Transportasi & Travel,1305.75
+2021-11-18,2021,11,2021-11,Expense,Makanan & Minuman,171.63
+2021-11-19,2021,11,2021-11,Expense,Belanja,1240.04
+2021-11-21,2021,11,2021-11,Income,Lainnya,2974.0
+2021-11-21,2021,11,2021-11,Expense,Belanja,601.89
+2021-11-21,2021,11,2021-11,Income,Pendapatan & Investasi,1794.0
+2021-11-23,2021,11,2021-11,Expense,Pendapatan & Investasi,934.24
+2021-11-26,2021,11,2021-11,Expense,Tagihan & Rumah,632.04
+2021-11-27,2021,11,2021-11,Expense,Kesehatan,1950.99
+2021-11-28,2021,11,2021-11,Income,Lainnya,4718.0
+2021-12-01,2021,12,2021-12,Expense,Kesehatan,491.06
+2021-12-02,2021,12,2021-12,Income,Lainnya,2530.0
+2021-12-03,2021,12,2021-12,Expense,Belanja,504.06
+2021-12-03,2021,12,2021-12,Income,Pendapatan & Investasi,2877.0
+2021-12-08,2021,12,2021-12,Expense,Tagihan & Rumah,1628.82
+2021-12-09,2021,12,2021-12,Expense,Kesehatan,387.77
+2021-12-09,2021,12,2021-12,Income,Lainnya,4585.0
+2021-12-11,2021,12,2021-12,Expense,Pendapatan & Investasi,56.12
+2021-12-12,2021,12,2021-12,Expense,Pendapatan & Investasi,1933.71
+2021-12-13,2021,12,2021-12,Expense,Kesehatan,106.83
+2021-12-13,2021,12,2021-12,Expense,Pendapatan & Investasi,578.64
+2021-12-15,2021,12,2021-12,Income,Pendapatan & Investasi,4030.0
+2021-12-15,2021,12,2021-12,Income,Lainnya,3496.0
+2021-12-16,2021,12,2021-12,Expense,Kesehatan,100.03
+2021-12-19,2021,12,2021-12,Income,Pendapatan & Investasi,3469.0
+2021-12-20,2021,12,2021-12,Expense,Tagihan & Rumah,778.83
+2021-12-20,2021,12,2021-12,Expense,Transportasi & Travel,1652.37
+2021-12-23,2021,12,2021-12,Expense,Tagihan & Rumah,266.04
+2021-12-24,2021,12,2021-12,Income,Lainnya,3277.0
+2021-12-26,2021,12,2021-12,Expense,Kesehatan,1512.38
+2021-12-28,2021,12,2021-12,Income,Lainnya,4596.0
+2021-12-31,2021,12,2021-12,Income,Pendapatan & Investasi,1622.0
+2022-01-01,2022,1,2022-01,Expense,Pendapatan & Investasi,1043.47
+2022-01-03,2022,1,2022-01,Expense,Kesehatan,333.38
+2022-01-03,2022,1,2022-01,Expense,Transportasi & Travel,1191.51
+2022-01-03,2022,1,2022-01,Income,Pendapatan & Investasi,3186.0
+2022-01-04,2022,1,2022-01,Expense,Pendapatan & Investasi,1420.39
+2022-01-05,2022,1,2022-01,Expense,Makanan & Minuman,743.03
+2022-01-06,2022,1,2022-01,Expense,Belanja,1171.57
+2022-01-08,2022,1,2022-01,Expense,Makanan & Minuman,1197.85
+2022-01-09,2022,1,2022-01,Expense,Hiburan,1445.59
+2022-01-13,2022,1,2022-01,Expense,Tagihan & Rumah,1053.22
+2022-01-13,2022,1,2022-01,Expense,Belanja,304.07
+2022-01-14,2022,1,2022-01,Expense,Makanan & Minuman,1149.41
+2022-01-16,2022,1,2022-01,Expense,Tagihan & Rumah,831.79
+2022-01-16,2022,1,2022-01,Expense,Hiburan,47.69
+2022-01-18,2022,1,2022-01,Expense,Makanan & Minuman,1414.49
+2022-01-18,2022,1,2022-01,Expense,Pendapatan & Investasi,1746.91
+2022-01-21,2022,1,2022-01,Expense,Kesehatan,1996.26
+2022-01-21,2022,1,2022-01,Expense,Belanja,634.37
+2022-01-22,2022,1,2022-01,Income,Lainnya,4975.0
+2022-01-23,2022,1,2022-01,Expense,Transportasi & Travel,1224.05
+2022-01-24,2022,1,2022-01,Income,Pendapatan & Investasi,2785.0
+2022-01-28,2022,1,2022-01,Expense,Hiburan,1883.56
+2022-02-01,2022,2,2022-02,Expense,Transportasi & Travel,1412.75
+2022-02-02,2022,2,2022-02,Expense,Pendapatan & Investasi,640.91
+2022-02-05,2022,2,2022-02,Expense,Transportasi & Travel,582.7
+2022-02-05,2022,2,2022-02,Expense,Belanja,1792.56
+2022-02-06,2022,2,2022-02,Expense,Kesehatan,1909.67
+2022-02-08,2022,2,2022-02,Expense,Transportasi & Travel,93.71
+2022-02-08,2022,2,2022-02,Expense,Tagihan & Rumah,699.26
+2022-02-09,2022,2,2022-02,Expense,Transportasi & Travel,1497.2
+2022-02-10,2022,2,2022-02,Expense,Transportasi & Travel,1866.72
+2022-02-10,2022,2,2022-02,Expense,Tagihan & Rumah,227.36
+2022-02-10,2022,2,2022-02,Expense,Hiburan,492.49
+2022-02-10,2022,2,2022-02,Expense,Hiburan,1279.51
+2022-02-11,2022,2,2022-02,Income,Lainnya,3205.0
+2022-02-14,2022,2,2022-02,Expense,Tagihan & Rumah,1365.57
+2022-02-17,2022,2,2022-02,Expense,Makanan & Minuman,1816.79
+2022-02-17,2022,2,2022-02,Income,Lainnya,3131.0
+2022-02-17,2022,2,2022-02,Expense,Pendapatan & Investasi,960.12
+2022-02-17,2022,2,2022-02,Income,Pendapatan & Investasi,3833.0
+2022-02-18,2022,2,2022-02,Income,Pendapatan & Investasi,4883.0
+2022-02-21,2022,2,2022-02,Expense,Makanan & Minuman,1827.33
+2022-02-22,2022,2,2022-02,Income,Pendapatan & Investasi,797.0
+2022-02-22,2022,2,2022-02,Expense,Belanja,1578.04
+2022-02-25,2022,2,2022-02,Income,Lainnya,806.0
+2022-02-27,2022,2,2022-02,Income,Pendapatan & Investasi,3244.0
+2022-03-01,2022,3,2022-03,Expense,Pendapatan & Investasi,1779.63
+2022-03-02,2022,3,2022-03,Income,Lainnya,2735.0
+2022-03-04,2022,3,2022-03,Income,Pendapatan & Investasi,3208.0
+2022-03-05,2022,3,2022-03,Income,Lainnya,2607.0
+2022-03-07,2022,3,2022-03,Expense,Makanan & Minuman,1475.87
+2022-03-07,2022,3,2022-03,Expense,Hiburan,359.23
+2022-03-12,2022,3,2022-03,Expense,Belanja,1655.71
+2022-03-14,2022,3,2022-03,Expense,Tagihan & Rumah,807.66
+2022-03-17,2022,3,2022-03,Income,Pendapatan & Investasi,4411.0
+2022-03-17,2022,3,2022-03,Expense,Hiburan,23.59
+2022-03-18,2022,3,2022-03,Expense,Pendapatan & Investasi,1509.98
+2022-03-18,2022,3,2022-03,Expense,Transportasi & Travel,1169.1
+2022-03-18,2022,3,2022-03,Expense,Transportasi & Travel,1310.83
+2022-03-20,2022,3,2022-03,Expense,Makanan & Minuman,1338.89
+2022-03-20,2022,3,2022-03,Expense,Tagihan & Rumah,816.78
+2022-03-22,2022,3,2022-03,Expense,Transportasi & Travel,1383.68
+2022-03-23,2022,3,2022-03,Expense,Transportasi & Travel,741.41
+2022-03-23,2022,3,2022-03,Expense,Tagihan & Rumah,961.58
+2022-03-24,2022,3,2022-03,Expense,Kesehatan,837.53
+2022-03-25,2022,3,2022-03,Expense,Pendapatan & Investasi,1517.13
+2022-03-26,2022,3,2022-03,Expense,Hiburan,1526.1
+2022-03-27,2022,3,2022-03,Expense,Tagihan & Rumah,1055.76
+2022-03-28,2022,3,2022-03,Expense,Kesehatan,165.42
+2022-03-28,2022,3,2022-03,Expense,Makanan & Minuman,1659.26
+2022-03-28,2022,3,2022-03,Expense,Hiburan,1149.68
+2022-03-28,2022,3,2022-03,Income,Lainnya,4762.0
+2022-03-29,2022,3,2022-03,Expense,Pendapatan & Investasi,1619.3
+2022-03-29,2022,3,2022-03,Expense,Hiburan,1436.67
+2022-03-31,2022,3,2022-03,Expense,Belanja,919.03
+2022-03-31,2022,3,2022-03,Income,Lainnya,3024.0
+2022-03-31,2022,3,2022-03,Expense,Belanja,516.37
+2022-04-01,2022,4,2022-04,Income,Pendapatan & Investasi,1098.0
+2022-04-01,2022,4,2022-04,Income,Lainnya,1022.0
+2022-04-01,2022,4,2022-04,Expense,Makanan & Minuman,1869.82
+2022-04-01,2022,4,2022-04,Income,Lainnya,759.0
+2022-04-02,2022,4,2022-04,Expense,Tagihan & Rumah,1540.25
+2022-04-02,2022,4,2022-04,Expense,Belanja,755.18
+2022-04-03,2022,4,2022-04,Expense,Pendapatan & Investasi,1740.54
+2022-04-03,2022,4,2022-04,Expense,Belanja,169.7
+2022-04-04,2022,4,2022-04,Expense,Tagihan & Rumah,1310.53
+2022-04-05,2022,4,2022-04,Expense,Tagihan & Rumah,1985.77
+2022-04-08,2022,4,2022-04,Expense,Tagihan & Rumah,1458.44
+2022-04-09,2022,4,2022-04,Expense,Makanan & Minuman,1514.8
+2022-04-09,2022,4,2022-04,Expense,Pendapatan & Investasi,1350.26
+2022-04-10,2022,4,2022-04,Expense,Belanja,1648.49
+2022-04-10,2022,4,2022-04,Expense,Kesehatan,318.69
+2022-04-16,2022,4,2022-04,Income,Pendapatan & Investasi,763.0
+2022-04-18,2022,4,2022-04,Expense,Belanja,1233.7
+2022-04-18,2022,4,2022-04,Expense,Makanan & Minuman,488.93
+2022-04-21,2022,4,2022-04,Income,Pendapatan & Investasi,4157.0
+2022-04-22,2022,4,2022-04,Income,Lainnya,2419.0
+2022-04-22,2022,4,2022-04,Expense,Makanan & Minuman,497.02
+2022-04-24,2022,4,2022-04,Expense,Makanan & Minuman,288.87
+2022-04-24,2022,4,2022-04,Expense,Hiburan,1633.41
+2022-04-29,2022,4,2022-04,Expense,Kesehatan,1159.17
+2022-04-30,2022,4,2022-04,Expense,Kesehatan,481.44
+2022-05-02,2022,5,2022-05,Expense,Hiburan,832.98
+2022-05-02,2022,5,2022-05,Expense,Tagihan & Rumah,1255.73
+2022-05-03,2022,5,2022-05,Expense,Pendapatan & Investasi,103.3
+2022-05-05,2022,5,2022-05,Expense,Belanja,1573.75
+2022-05-05,2022,5,2022-05,Expense,Belanja,822.44
+2022-05-06,2022,5,2022-05,Expense,Tagihan & Rumah,1511.29
+2022-05-07,2022,5,2022-05,Expense,Belanja,1119.0
+2022-05-07,2022,5,2022-05,Expense,Pendapatan & Investasi,1830.33
+2022-05-07,2022,5,2022-05,Expense,Hiburan,608.47
+2022-05-08,2022,5,2022-05,Income,Pendapatan & Investasi,2588.0
+2022-05-08,2022,5,2022-05,Expense,Tagihan & Rumah,1845.23
+2022-05-09,2022,5,2022-05,Expense,Tagihan & Rumah,1075.91
+2022-05-09,2022,5,2022-05,Expense,Makanan & Minuman,544.24
+2022-05-11,2022,5,2022-05,Expense,Makanan & Minuman,1748.5
+2022-05-13,2022,5,2022-05,Income,Pendapatan & Investasi,4427.0
+2022-05-13,2022,5,2022-05,Expense,Kesehatan,613.34
+2022-05-14,2022,5,2022-05,Expense,Hiburan,1874.95
+2022-05-19,2022,5,2022-05,Expense,Tagihan & Rumah,1496.29
+2022-05-19,2022,5,2022-05,Expense,Hiburan,1394.3
+2022-05-20,2022,5,2022-05,Expense,Transportasi & Travel,767.52
+2022-05-20,2022,5,2022-05,Expense,Belanja,1831.1
+2022-05-22,2022,5,2022-05,Expense,Kesehatan,623.76
+2022-05-23,2022,5,2022-05,Expense,Pendapatan & Investasi,937.35
+2022-05-24,2022,5,2022-05,Expense,Pendapatan & Investasi,1525.64
+2022-05-24,2022,5,2022-05,Expense,Hiburan,747.7
+2022-05-25,2022,5,2022-05,Expense,Hiburan,1485.09
+2022-05-27,2022,5,2022-05,Income,Lainnya,2918.0
+2022-05-28,2022,5,2022-05,Income,Lainnya,2384.0
+2022-05-29,2022,5,2022-05,Expense,Hiburan,1003.61
+2022-05-29,2022,5,2022-05,Expense,Kesehatan,522.08
+2022-05-30,2022,5,2022-05,Expense,Kesehatan,346.84
+2022-05-30,2022,5,2022-05,Expense,Pendapatan & Investasi,927.05
+2022-05-31,2022,5,2022-05,Expense,Pendapatan & Investasi,376.26
+2022-06-01,2022,6,2022-06,Expense,Makanan & Minuman,1052.65
+2022-06-01,2022,6,2022-06,Expense,Tagihan & Rumah,1890.92
+2022-06-04,2022,6,2022-06,Expense,Makanan & Minuman,830.66
+2022-06-04,2022,6,2022-06,Expense,Hiburan,145.26
+2022-06-06,2022,6,2022-06,Income,Pendapatan & Investasi,4642.0
+2022-06-07,2022,6,2022-06,Expense,Makanan & Minuman,1239.49
+2022-06-07,2022,6,2022-06,Expense,Pendapatan & Investasi,1321.98
+2022-06-11,2022,6,2022-06,Income,Lainnya,597.0
+2022-06-11,2022,6,2022-06,Income,Lainnya,4888.0
+2022-06-12,2022,6,2022-06,Expense,Tagihan & Rumah,1836.92
+2022-06-12,2022,6,2022-06,Expense,Makanan & Minuman,1009.41
+2022-06-12,2022,6,2022-06,Expense,Belanja,1614.27
+2022-06-13,2022,6,2022-06,Expense,Hiburan,391.94
+2022-06-17,2022,6,2022-06,Expense,Kesehatan,541.98
+2022-06-17,2022,6,2022-06,Expense,Kesehatan,1919.0
+2022-06-18,2022,6,2022-06,Expense,Hiburan,1980.56
+2022-06-19,2022,6,2022-06,Expense,Tagihan & Rumah,1310.93
+2022-06-20,2022,6,2022-06,Expense,Makanan & Minuman,196.07
+2022-06-21,2022,6,2022-06,Expense,Pendapatan & Investasi,121.67
+2022-06-21,2022,6,2022-06,Income,Pendapatan & Investasi,1177.0
+2022-06-23,2022,6,2022-06,Expense,Tagihan & Rumah,1790.63
+2022-06-23,2022,6,2022-06,Expense,Belanja,1293.37
+2022-06-25,2022,6,2022-06,Expense,Hiburan,430.72
+2022-06-25,2022,6,2022-06,Expense,Pendapatan & Investasi,549.48
+2022-06-26,2022,6,2022-06,Expense,Transportasi & Travel,1799.63
+2022-06-26,2022,6,2022-06,Expense,Makanan & Minuman,366.92
+2022-06-30,2022,6,2022-06,Expense,Makanan & Minuman,1923.32
+2022-07-01,2022,7,2022-07,Expense,Belanja,1858.46
+2022-07-02,2022,7,2022-07,Expense,Hiburan,1137.72
+2022-07-04,2022,7,2022-07,Expense,Makanan & Minuman,204.39
+2022-07-04,2022,7,2022-07,Expense,Kesehatan,773.85
+2022-07-04,2022,7,2022-07,Expense,Tagihan & Rumah,1006.58
+2022-07-05,2022,7,2022-07,Expense,Tagihan & Rumah,687.78
+2022-07-06,2022,7,2022-07,Expense,Belanja,1938.15
+2022-07-13,2022,7,2022-07,Expense,Transportasi & Travel,1569.26
+2022-07-17,2022,7,2022-07,Expense,Hiburan,718.06
+2022-07-17,2022,7,2022-07,Expense,Belanja,379.62
+2022-07-17,2022,7,2022-07,Expense,Belanja,180.53
+2022-07-18,2022,7,2022-07,Expense,Hiburan,1429.09
+2022-07-18,2022,7,2022-07,Income,Pendapatan & Investasi,3612.0
+2022-07-19,2022,7,2022-07,Expense,Tagihan & Rumah,1481.91
+2022-07-20,2022,7,2022-07,Expense,Tagihan & Rumah,192.13
+2022-07-22,2022,7,2022-07,Expense,Pendapatan & Investasi,726.24
+2022-07-25,2022,7,2022-07,Expense,Tagihan & Rumah,183.72
+2022-07-27,2022,7,2022-07,Expense,Tagihan & Rumah,1452.44
+2022-07-27,2022,7,2022-07,Expense,Makanan & Minuman,590.78
+2022-07-27,2022,7,2022-07,Expense,Belanja,215.55
+2022-07-27,2022,7,2022-07,Income,Pendapatan & Investasi,3157.0
+2022-07-28,2022,7,2022-07,Expense,Hiburan,1148.2
+2022-07-28,2022,7,2022-07,Income,Lainnya,1888.0
+2022-07-29,2022,7,2022-07,Income,Lainnya,2698.0
+2022-07-30,2022,7,2022-07,Expense,Tagihan & Rumah,342.74
+2022-07-31,2022,7,2022-07,Expense,Transportasi & Travel,973.62
+2022-08-02,2022,8,2022-08,Income,Lainnya,2520.0
+2022-08-02,2022,8,2022-08,Expense,Pendapatan & Investasi,1191.67
+2022-08-03,2022,8,2022-08,Income,Pendapatan & Investasi,1609.0
+2022-08-04,2022,8,2022-08,Expense,Belanja,671.11
+2022-08-06,2022,8,2022-08,Expense,Kesehatan,886.04
+2022-08-07,2022,8,2022-08,Expense,Tagihan & Rumah,607.87
+2022-08-12,2022,8,2022-08,Expense,Hiburan,963.23
+2022-08-13,2022,8,2022-08,Income,Lainnya,3114.0
+2022-08-15,2022,8,2022-08,Expense,Pendapatan & Investasi,1935.85
+2022-08-15,2022,8,2022-08,Expense,Kesehatan,758.35
+2022-08-16,2022,8,2022-08,Expense,Belanja,736.38
+2022-08-16,2022,8,2022-08,Expense,Hiburan,1188.53
+2022-08-17,2022,8,2022-08,Expense,Makanan & Minuman,1906.48
+2022-08-18,2022,8,2022-08,Expense,Hiburan,882.53
+2022-08-19,2022,8,2022-08,Expense,Tagihan & Rumah,1639.74
+2022-08-21,2022,8,2022-08,Expense,Belanja,1349.23
+2022-08-21,2022,8,2022-08,Income,Lainnya,2482.0
+2022-08-22,2022,8,2022-08,Expense,Tagihan & Rumah,903.64
+2022-08-22,2022,8,2022-08,Expense,Tagihan & Rumah,1433.32
+2022-08-23,2022,8,2022-08,Expense,Belanja,1073.39
+2022-08-24,2022,8,2022-08,Expense,Belanja,1091.85
+2022-08-26,2022,8,2022-08,Expense,Kesehatan,1406.25
+2022-08-26,2022,8,2022-08,Expense,Tagihan & Rumah,227.65
+2022-08-28,2022,8,2022-08,Expense,Kesehatan,341.01
+2022-08-29,2022,8,2022-08,Expense,Belanja,1933.95
+2022-08-30,2022,8,2022-08,Expense,Belanja,220.83
+2022-08-31,2022,8,2022-08,Income,Pendapatan & Investasi,4683.0
+2022-08-31,2022,8,2022-08,Expense,Hiburan,897.1
+2022-09-01,2022,9,2022-09,Expense,Tagihan & Rumah,696.49
+2022-09-02,2022,9,2022-09,Income,Pendapatan & Investasi,2920.0
+2022-09-03,2022,9,2022-09,Expense,Tagihan & Rumah,240.98
+2022-09-03,2022,9,2022-09,Expense,Tagihan & Rumah,703.17
+2022-09-03,2022,9,2022-09,Expense,Hiburan,1047.02
+2022-09-04,2022,9,2022-09,Expense,Tagihan & Rumah,881.95
+2022-09-04,2022,9,2022-09,Expense,Kesehatan,143.68
+2022-09-05,2022,9,2022-09,Income,Pendapatan & Investasi,685.0
+2022-09-06,2022,9,2022-09,Expense,Tagihan & Rumah,1357.51
+2022-09-07,2022,9,2022-09,Income,Pendapatan & Investasi,4727.0
+2022-09-08,2022,9,2022-09,Income,Pendapatan & Investasi,3211.0
+2022-09-10,2022,9,2022-09,Expense,Pendapatan & Investasi,471.39
+2022-09-11,2022,9,2022-09,Expense,Belanja,68.09
+2022-09-11,2022,9,2022-09,Expense,Tagihan & Rumah,380.91
+2022-09-12,2022,9,2022-09,Expense,Hiburan,904.65
+2022-09-14,2022,9,2022-09,Expense,Makanan & Minuman,1412.42
+2022-09-15,2022,9,2022-09,Expense,Tagihan & Rumah,1158.92
+2022-09-15,2022,9,2022-09,Expense,Tagihan & Rumah,737.93
+2022-09-17,2022,9,2022-09,Income,Pendapatan & Investasi,2649.0
+2022-09-18,2022,9,2022-09,Expense,Pendapatan & Investasi,1060.15
+2022-09-19,2022,9,2022-09,Expense,Belanja,1226.5
+2022-09-19,2022,9,2022-09,Expense,Kesehatan,710.45
+2022-09-21,2022,9,2022-09,Expense,Tagihan & Rumah,1629.34
+2022-09-23,2022,9,2022-09,Expense,Transportasi & Travel,1838.18
+2022-09-26,2022,9,2022-09,Expense,Tagihan & Rumah,374.26
+2022-09-26,2022,9,2022-09,Expense,Tagihan & Rumah,633.24
+2022-09-28,2022,9,2022-09,Expense,Belanja,842.3
+2022-09-29,2022,9,2022-09,Income,Lainnya,3965.0
+2022-09-29,2022,9,2022-09,Income,Pendapatan & Investasi,1866.0
+2022-09-30,2022,9,2022-09,Expense,Tagihan & Rumah,382.33
+2022-10-01,2022,10,2022-10,Expense,Makanan & Minuman,1732.39
+2022-10-02,2022,10,2022-10,Expense,Pendapatan & Investasi,281.7
+2022-10-03,2022,10,2022-10,Expense,Pendapatan & Investasi,824.18
+2022-10-04,2022,10,2022-10,Expense,Pendapatan & Investasi,982.51
+2022-10-04,2022,10,2022-10,Income,Pendapatan & Investasi,2306.0
+2022-10-05,2022,10,2022-10,Expense,Transportasi & Travel,457.44
+2022-10-08,2022,10,2022-10,Expense,Pendapatan & Investasi,1135.64
+2022-10-10,2022,10,2022-10,Expense,Pendapatan & Investasi,1103.96
+2022-10-12,2022,10,2022-10,Income,Pendapatan & Investasi,2694.0
+2022-10-12,2022,10,2022-10,Expense,Kesehatan,1088.67
+2022-10-13,2022,10,2022-10,Expense,Pendapatan & Investasi,1097.24
+2022-10-19,2022,10,2022-10,Expense,Tagihan & Rumah,1474.62
+2022-10-19,2022,10,2022-10,Expense,Hiburan,602.44
+2022-10-20,2022,10,2022-10,Expense,Pendapatan & Investasi,533.0
+2022-10-21,2022,10,2022-10,Expense,Tagihan & Rumah,883.75
+2022-10-22,2022,10,2022-10,Expense,Hiburan,427.66
+2022-10-23,2022,10,2022-10,Expense,Kesehatan,1723.49
+2022-10-25,2022,10,2022-10,Expense,Belanja,340.3
+2022-10-28,2022,10,2022-10,Income,Pendapatan & Investasi,2195.0
+2022-10-30,2022,10,2022-10,Expense,Kesehatan,1069.24
+2022-10-31,2022,10,2022-10,Expense,Tagihan & Rumah,654.07
+2022-11-03,2022,11,2022-11,Expense,Transportasi & Travel,1149.74
+2022-11-04,2022,11,2022-11,Expense,Tagihan & Rumah,279.82
+2022-11-05,2022,11,2022-11,Expense,Belanja,1838.35
+2022-11-07,2022,11,2022-11,Expense,Tagihan & Rumah,1405.84
+2022-11-07,2022,11,2022-11,Income,Pendapatan & Investasi,3138.0
+2022-11-09,2022,11,2022-11,Expense,Belanja,984.02
+2022-11-10,2022,11,2022-11,Expense,Transportasi & Travel,1259.35
+2022-11-13,2022,11,2022-11,Expense,Tagihan & Rumah,1270.92
+2022-11-14,2022,11,2022-11,Expense,Kesehatan,914.84
+2022-11-14,2022,11,2022-11,Expense,Tagihan & Rumah,811.67
+2022-11-15,2022,11,2022-11,Expense,Makanan & Minuman,1739.13
+2022-11-17,2022,11,2022-11,Expense,Tagihan & Rumah,1464.55
+2022-11-17,2022,11,2022-11,Expense,Kesehatan,1701.71
+2022-11-18,2022,11,2022-11,Expense,Belanja,443.48
+2022-11-19,2022,11,2022-11,Expense,Hiburan,994.48
+2022-11-21,2022,11,2022-11,Expense,Transportasi & Travel,682.13
+2022-11-22,2022,11,2022-11,Expense,Pendapatan & Investasi,1578.72
+2022-11-26,2022,11,2022-11,Expense,Makanan & Minuman,101.43
+2022-11-26,2022,11,2022-11,Expense,Pendapatan & Investasi,42.4
+2022-11-28,2022,11,2022-11,Income,Lainnya,2157.0
+2022-11-28,2022,11,2022-11,Expense,Tagihan & Rumah,888.16
+2022-12-01,2022,12,2022-12,Expense,Tagihan & Rumah,1765.47
+2022-12-03,2022,12,2022-12,Expense,Transportasi & Travel,195.75
+2022-12-04,2022,12,2022-12,Expense,Tagihan & Rumah,749.97
+2022-12-05,2022,12,2022-12,Expense,Tagihan & Rumah,113.06
+2022-12-05,2022,12,2022-12,Expense,Hiburan,864.17
+2022-12-07,2022,12,2022-12,Income,Pendapatan & Investasi,508.0
+2022-12-12,2022,12,2022-12,Expense,Tagihan & Rumah,274.07
+2022-12-13,2022,12,2022-12,Expense,Pendapatan & Investasi,28.48
+2022-12-15,2022,12,2022-12,Expense,Tagihan & Rumah,1976.43
+2022-12-16,2022,12,2022-12,Expense,Tagihan & Rumah,960.62
+2022-12-18,2022,12,2022-12,Expense,Tagihan & Rumah,1464.22
+2022-12-22,2022,12,2022-12,Income,Lainnya,3511.0
+2022-12-28,2022,12,2022-12,Expense,Tagihan & Rumah,771.61
+2022-12-30,2022,12,2022-12,Expense,Tagihan & Rumah,1286.74
+2022-12-31,2022,12,2022-12,Expense,Tagihan & Rumah,1065.71
+2023-01-03,2023,1,2023-01,Income,Pendapatan & Investasi,4105.0
+2023-01-04,2023,1,2023-01,Expense,Hiburan,1259.88
+2023-01-04,2023,1,2023-01,Income,Lainnya,4124.0
+2023-01-06,2023,1,2023-01,Expense,Tagihan & Rumah,1794.22
+2023-01-09,2023,1,2023-01,Income,Pendapatan & Investasi,3645.0
+2023-01-10,2023,1,2023-01,Expense,Belanja,635.86
+2023-01-11,2023,1,2023-01,Income,Lainnya,1190.0
+2023-01-13,2023,1,2023-01,Expense,Transportasi & Travel,1560.15
+2023-01-15,2023,1,2023-01,Expense,Transportasi & Travel,418.84
+2023-01-16,2023,1,2023-01,Expense,Hiburan,1498.21
+2023-01-17,2023,1,2023-01,Expense,Makanan & Minuman,1569.77
+2023-01-18,2023,1,2023-01,Expense,Hiburan,994.83
+2023-01-19,2023,1,2023-01,Income,Lainnya,1081.0
+2023-01-19,2023,1,2023-01,Expense,Makanan & Minuman,1973.9
+2023-01-19,2023,1,2023-01,Expense,Tagihan & Rumah,779.81
+2023-01-19,2023,1,2023-01,Expense,Belanja,737.17
+2023-01-19,2023,1,2023-01,Expense,Pendapatan & Investasi,1909.36
+2023-01-20,2023,1,2023-01,Expense,Makanan & Minuman,1178.85
+2023-01-21,2023,1,2023-01,Expense,Belanja,1018.16
+2023-01-21,2023,1,2023-01,Income,Pendapatan & Investasi,826.0
+2023-01-22,2023,1,2023-01,Expense,Belanja,852.91
+2023-01-23,2023,1,2023-01,Expense,Tagihan & Rumah,562.16
+2023-01-23,2023,1,2023-01,Expense,Hiburan,1948.88
+2023-01-23,2023,1,2023-01,Income,Lainnya,3700.0
+2023-01-24,2023,1,2023-01,Expense,Makanan & Minuman,336.03
+2023-01-24,2023,1,2023-01,Expense,Tagihan & Rumah,627.24
+2023-01-24,2023,1,2023-01,Expense,Hiburan,125.23
+2023-01-24,2023,1,2023-01,Income,Lainnya,1450.0
+2023-01-24,2023,1,2023-01,Expense,Makanan & Minuman,625.49
+2023-01-24,2023,1,2023-01,Expense,Tagihan & Rumah,247.69
+2023-01-25,2023,1,2023-01,Expense,Transportasi & Travel,342.26
+2023-01-26,2023,1,2023-01,Income,Lainnya,1467.0
+2023-01-27,2023,1,2023-01,Expense,Makanan & Minuman,676.67
+2023-01-27,2023,1,2023-01,Expense,Tagihan & Rumah,533.27
+2023-01-28,2023,1,2023-01,Expense,Tagihan & Rumah,997.33
+2023-01-29,2023,1,2023-01,Expense,Makanan & Minuman,1004.22
+2023-01-29,2023,1,2023-01,Expense,Kesehatan,323.05
+2023-01-30,2023,1,2023-01,Expense,Tagihan & Rumah,464.52
+2023-01-31,2023,1,2023-01,Expense,Makanan & Minuman,1718.79
+2023-01-31,2023,1,2023-01,Income,Pendapatan & Investasi,4364.0
+2023-02-01,2023,2,2023-02,Expense,Tagihan & Rumah,366.13
+2023-02-02,2023,2,2023-02,Expense,Makanan & Minuman,1110.2
+2023-02-03,2023,2,2023-02,Expense,Belanja,456.79
+2023-02-06,2023,2,2023-02,Expense,Kesehatan,549.8
+2023-02-07,2023,2,2023-02,Income,Lainnya,1478.0
+2023-02-07,2023,2,2023-02,Expense,Makanan & Minuman,366.9
+2023-02-08,2023,2,2023-02,Expense,Makanan & Minuman,1908.62
+2023-02-08,2023,2,2023-02,Income,Lainnya,2812.0
+2023-02-09,2023,2,2023-02,Expense,Transportasi & Travel,661.33
+2023-02-12,2023,2,2023-02,Expense,Makanan & Minuman,744.15
+2023-02-13,2023,2,2023-02,Expense,Transportasi & Travel,1481.76
+2023-02-15,2023,2,2023-02,Expense,Kesehatan,1187.46
+2023-02-16,2023,2,2023-02,Expense,Hiburan,1467.6
+2023-02-18,2023,2,2023-02,Expense,Hiburan,309.63
+2023-02-20,2023,2,2023-02,Expense,Makanan & Minuman,473.67
+2023-02-20,2023,2,2023-02,Expense,Makanan & Minuman,1902.47
+2023-02-22,2023,2,2023-02,Income,Lainnya,3019.0
+2023-02-22,2023,2,2023-02,Income,Pendapatan & Investasi,3939.0
+2023-02-24,2023,2,2023-02,Expense,Makanan & Minuman,1945.39
+2023-02-26,2023,2,2023-02,Income,Lainnya,1262.0
+2023-02-26,2023,2,2023-02,Income,Pendapatan & Investasi,4757.0
+2023-02-26,2023,2,2023-02,Expense,Kesehatan,922.33
+2023-02-28,2023,2,2023-02,Expense,Tagihan & Rumah,1015.8
+2023-03-03,2023,3,2023-03,Expense,Belanja,1328.26
+2023-03-03,2023,3,2023-03,Expense,Belanja,158.91
+2023-03-05,2023,3,2023-03,Expense,Kesehatan,910.99
+2023-03-05,2023,3,2023-03,Income,Lainnya,2638.0
+2023-03-05,2023,3,2023-03,Expense,Belanja,1404.44
+2023-03-07,2023,3,2023-03,Expense,Hiburan,280.86
+2023-03-08,2023,3,2023-03,Expense,Tagihan & Rumah,319.27
+2023-03-08,2023,3,2023-03,Income,Lainnya,3072.0
+2023-03-08,2023,3,2023-03,Expense,Kesehatan,1929.62
+2023-03-08,2023,3,2023-03,Expense,Transportasi & Travel,932.06
+2023-03-10,2023,3,2023-03,Expense,Tagihan & Rumah,323.65
+2023-03-10,2023,3,2023-03,Expense,Makanan & Minuman,437.89
+2023-03-12,2023,3,2023-03,Expense,Tagihan & Rumah,191.51
+2023-03-13,2023,3,2023-03,Expense,Tagihan & Rumah,71.85
+2023-03-13,2023,3,2023-03,Income,Lainnya,2631.0
+2023-03-13,2023,3,2023-03,Expense,Kesehatan,798.53
+2023-03-15,2023,3,2023-03,Expense,Pendapatan & Investasi,1116.35
+2023-03-15,2023,3,2023-03,Expense,Tagihan & Rumah,929.47
+2023-03-16,2023,3,2023-03,Expense,Tagihan & Rumah,251.69
+2023-03-16,2023,3,2023-03,Income,Pendapatan & Investasi,1570.0
+2023-03-18,2023,3,2023-03,Income,Lainnya,3549.0
+2023-03-18,2023,3,2023-03,Expense,Tagihan & Rumah,1168.82
+2023-03-21,2023,3,2023-03,Expense,Tagihan & Rumah,53.38
+2023-03-22,2023,3,2023-03,Income,Lainnya,1555.0
+2023-03-23,2023,3,2023-03,Income,Lainnya,914.0
+2023-03-23,2023,3,2023-03,Income,Lainnya,3735.0
+2023-03-23,2023,3,2023-03,Income,Lainnya,1503.0
+2023-03-24,2023,3,2023-03,Expense,Belanja,1369.59
+2023-03-27,2023,3,2023-03,Income,Pendapatan & Investasi,2033.0
+2023-03-29,2023,3,2023-03,Expense,Pendapatan & Investasi,1768.01
+2023-03-30,2023,3,2023-03,Income,Pendapatan & Investasi,2917.0
+2023-03-31,2023,3,2023-03,Expense,Pendapatan & Investasi,131.35
+2023-03-31,2023,3,2023-03,Expense,Tagihan & Rumah,844.28
+2023-04-01,2023,4,2023-04,Expense,Hiburan,1265.2
+2023-04-01,2023,4,2023-04,Expense,Makanan & Minuman,1978.91
+2023-04-04,2023,4,2023-04,Expense,Kesehatan,964.57
+2023-04-07,2023,4,2023-04,Expense,Kesehatan,1826.23
+2023-04-08,2023,4,2023-04,Expense,Belanja,548.17
+2023-04-09,2023,4,2023-04,Income,Pendapatan & Investasi,740.0
+2023-04-10,2023,4,2023-04,Expense,Transportasi & Travel,126.6
+2023-04-10,2023,4,2023-04,Expense,Kesehatan,1536.02
+2023-04-13,2023,4,2023-04,Expense,Tagihan & Rumah,209.27
+2023-04-15,2023,4,2023-04,Expense,Transportasi & Travel,1072.04
+2023-04-16,2023,4,2023-04,Expense,Makanan & Minuman,1530.46
+2023-04-20,2023,4,2023-04,Expense,Belanja,716.06
+2023-04-20,2023,4,2023-04,Expense,Tagihan & Rumah,360.44
+2023-04-21,2023,4,2023-04,Expense,Kesehatan,1828.82
+2023-04-22,2023,4,2023-04,Income,Lainnya,1664.0
+2023-04-22,2023,4,2023-04,Expense,Hiburan,1675.03
+2023-04-23,2023,4,2023-04,Expense,Pendapatan & Investasi,1088.83
+2023-04-24,2023,4,2023-04,Income,Pendapatan & Investasi,1239.0
+2023-04-25,2023,4,2023-04,Income,Pendapatan & Investasi,663.0
+2023-05-02,2023,5,2023-05,Expense,Makanan & Minuman,670.15
+2023-05-02,2023,5,2023-05,Expense,Tagihan & Rumah,688.11
+2023-05-03,2023,5,2023-05,Income,Lainnya,987.0
+2023-05-05,2023,5,2023-05,Income,Pendapatan & Investasi,1408.0
+2023-05-05,2023,5,2023-05,Expense,Kesehatan,1921.51
+2023-05-05,2023,5,2023-05,Expense,Belanja,1176.17
+2023-05-07,2023,5,2023-05,Expense,Kesehatan,281.54
+2023-05-12,2023,5,2023-05,Income,Lainnya,4491.0
+2023-05-14,2023,5,2023-05,Expense,Tagihan & Rumah,1417.29
+2023-05-14,2023,5,2023-05,Expense,Kesehatan,454.24
+2023-05-14,2023,5,2023-05,Expense,Tagihan & Rumah,762.98
+2023-05-15,2023,5,2023-05,Expense,Transportasi & Travel,263.42
+2023-05-15,2023,5,2023-05,Expense,Belanja,1703.01
+2023-05-16,2023,5,2023-05,Expense,Makanan & Minuman,372.34
+2023-05-17,2023,5,2023-05,Expense,Hiburan,1282.9
+2023-05-18,2023,5,2023-05,Income,Lainnya,1652.0
+2023-05-19,2023,5,2023-05,Expense,Tagihan & Rumah,483.61
+2023-05-20,2023,5,2023-05,Expense,Kesehatan,898.79
+2023-05-20,2023,5,2023-05,Expense,Hiburan,1389.42
+2023-05-20,2023,5,2023-05,Expense,Tagihan & Rumah,1276.01
+2023-05-22,2023,5,2023-05,Expense,Tagihan & Rumah,1443.62
+2023-05-22,2023,5,2023-05,Income,Lainnya,3937.0
+2023-05-22,2023,5,2023-05,Expense,Belanja,991.23
+2023-05-25,2023,5,2023-05,Expense,Belanja,211.84
+2023-05-28,2023,5,2023-05,Expense,Hiburan,333.69
+2023-05-29,2023,5,2023-05,Income,Pendapatan & Investasi,2915.0
+2023-05-29,2023,5,2023-05,Income,Lainnya,1357.0
+2023-05-30,2023,5,2023-05,Income,Pendapatan & Investasi,3575.0
+2023-06-02,2023,6,2023-06,Income,Pendapatan & Investasi,4981.0
+2023-06-03,2023,6,2023-06,Expense,Tagihan & Rumah,682.52
+2023-06-04,2023,6,2023-06,Expense,Pendapatan & Investasi,1411.96
+2023-06-05,2023,6,2023-06,Expense,Tagihan & Rumah,1218.56
+2023-06-08,2023,6,2023-06,Expense,Makanan & Minuman,211.5
+2023-06-08,2023,6,2023-06,Expense,Hiburan,824.47
+2023-06-09,2023,6,2023-06,Expense,Transportasi & Travel,1324.59
+2023-06-09,2023,6,2023-06,Expense,Tagihan & Rumah,108.77
+2023-06-10,2023,6,2023-06,Expense,Pendapatan & Investasi,315.64
+2023-06-10,2023,6,2023-06,Expense,Belanja,184.38
+2023-06-13,2023,6,2023-06,Expense,Pendapatan & Investasi,407.35
+2023-06-15,2023,6,2023-06,Income,Pendapatan & Investasi,2890.0
+2023-06-16,2023,6,2023-06,Expense,Pendapatan & Investasi,1689.1
+2023-06-16,2023,6,2023-06,Expense,Belanja,947.18
+2023-06-17,2023,6,2023-06,Expense,Transportasi & Travel,191.36
+2023-06-17,2023,6,2023-06,Expense,Tagihan & Rumah,748.33
+2023-06-19,2023,6,2023-06,Expense,Tagihan & Rumah,897.09
+2023-06-21,2023,6,2023-06,Expense,Pendapatan & Investasi,534.17
+2023-06-22,2023,6,2023-06,Expense,Makanan & Minuman,310.75
+2023-06-22,2023,6,2023-06,Expense,Tagihan & Rumah,180.56
+2023-06-23,2023,6,2023-06,Expense,Belanja,1941.7
+2023-06-25,2023,6,2023-06,Expense,Makanan & Minuman,1683.19
+2023-06-25,2023,6,2023-06,Expense,Belanja,1931.6
+2023-06-25,2023,6,2023-06,Expense,Pendapatan & Investasi,1149.7
+2023-06-26,2023,6,2023-06,Expense,Transportasi & Travel,167.12
+2023-06-30,2023,6,2023-06,Expense,Makanan & Minuman,1009.18
+2023-07-01,2023,7,2023-07,Expense,Tagihan & Rumah,249.36
+2023-07-02,2023,7,2023-07,Expense,Tagihan & Rumah,1898.63
+2023-07-05,2023,7,2023-07,Income,Pendapatan & Investasi,2078.0
+2023-07-05,2023,7,2023-07,Income,Lainnya,1141.0
+2023-07-06,2023,7,2023-07,Expense,Belanja,411.82
+2023-07-07,2023,7,2023-07,Expense,Tagihan & Rumah,1669.88
+2023-07-07,2023,7,2023-07,Expense,Tagihan & Rumah,183.18
+2023-07-10,2023,7,2023-07,Expense,Kesehatan,1714.68
+2023-07-10,2023,7,2023-07,Expense,Makanan & Minuman,1575.24
+2023-07-10,2023,7,2023-07,Expense,Belanja,233.91
+2023-07-10,2023,7,2023-07,Income,Pendapatan & Investasi,1365.0
+2023-07-11,2023,7,2023-07,Expense,Tagihan & Rumah,1573.63
+2023-07-13,2023,7,2023-07,Expense,Kesehatan,1757.01
+2023-07-15,2023,7,2023-07,Expense,Pendapatan & Investasi,1148.33
+2023-07-15,2023,7,2023-07,Expense,Tagihan & Rumah,558.07
+2023-07-15,2023,7,2023-07,Income,Lainnya,817.0
+2023-07-15,2023,7,2023-07,Expense,Kesehatan,1384.12
+2023-07-15,2023,7,2023-07,Income,Lainnya,2700.0
+2023-07-16,2023,7,2023-07,Expense,Makanan & Minuman,682.35
+2023-07-17,2023,7,2023-07,Expense,Transportasi & Travel,567.89
+2023-07-18,2023,7,2023-07,Expense,Tagihan & Rumah,1945.27
+2023-07-19,2023,7,2023-07,Expense,Transportasi & Travel,1948.7
+2023-07-19,2023,7,2023-07,Expense,Kesehatan,546.15
+2023-07-20,2023,7,2023-07,Expense,Tagihan & Rumah,383.99
+2023-07-21,2023,7,2023-07,Expense,Belanja,1484.48
+2023-07-23,2023,7,2023-07,Expense,Kesehatan,1643.82
+2023-07-25,2023,7,2023-07,Expense,Tagihan & Rumah,140.58
+2023-07-26,2023,7,2023-07,Expense,Belanja,279.94
+2023-07-27,2023,7,2023-07,Expense,Makanan & Minuman,355.74
+2023-07-27,2023,7,2023-07,Expense,Hiburan,1675.58
+2023-07-30,2023,7,2023-07,Expense,Pendapatan & Investasi,110.61
+2023-08-01,2023,8,2023-08,Expense,Hiburan,555.22
+2023-08-04,2023,8,2023-08,Expense,Belanja,1274.47
+2023-08-05,2023,8,2023-08,Income,Pendapatan & Investasi,2481.0
+2023-08-07,2023,8,2023-08,Expense,Kesehatan,695.06
+2023-08-07,2023,8,2023-08,Expense,Pendapatan & Investasi,363.39
+2023-08-09,2023,8,2023-08,Expense,Transportasi & Travel,1500.43
+2023-08-09,2023,8,2023-08,Expense,Transportasi & Travel,64.63
+2023-08-10,2023,8,2023-08,Income,Pendapatan & Investasi,2313.0
+2023-08-10,2023,8,2023-08,Expense,Hiburan,545.48
+2023-08-11,2023,8,2023-08,Expense,Makanan & Minuman,1730.61
+2023-08-16,2023,8,2023-08,Expense,Makanan & Minuman,953.45
+2023-08-17,2023,8,2023-08,Income,Pendapatan & Investasi,569.0
+2023-08-17,2023,8,2023-08,Expense,Transportasi & Travel,1428.35
+2023-08-21,2023,8,2023-08,Expense,Transportasi & Travel,853.38
+2023-08-22,2023,8,2023-08,Expense,Kesehatan,923.41
+2023-08-23,2023,8,2023-08,Expense,Transportasi & Travel,1357.62
+2023-08-25,2023,8,2023-08,Expense,Belanja,1173.13
+2023-08-27,2023,8,2023-08,Income,Lainnya,2815.0
+2023-08-30,2023,8,2023-08,Expense,Tagihan & Rumah,968.66
+2023-08-30,2023,8,2023-08,Expense,Transportasi & Travel,1284.78
+2023-08-30,2023,8,2023-08,Expense,Transportasi & Travel,1315.68
+2023-08-30,2023,8,2023-08,Expense,Transportasi & Travel,384.84
+2023-09-01,2023,9,2023-09,Expense,Hiburan,1800.38
+2023-09-01,2023,9,2023-09,Expense,Belanja,1324.46
+2023-09-03,2023,9,2023-09,Expense,Makanan & Minuman,1314.25
+2023-09-04,2023,9,2023-09,Expense,Hiburan,692.9
+2023-09-04,2023,9,2023-09,Expense,Makanan & Minuman,1170.22
+2023-09-04,2023,9,2023-09,Expense,Transportasi & Travel,1814.75
+2023-09-07,2023,9,2023-09,Expense,Pendapatan & Investasi,1813.99
+2023-09-10,2023,9,2023-09,Expense,Transportasi & Travel,1692.38
+2023-09-11,2023,9,2023-09,Expense,Tagihan & Rumah,594.63
+2023-09-11,2023,9,2023-09,Expense,Transportasi & Travel,1453.12
+2023-09-12,2023,9,2023-09,Expense,Tagihan & Rumah,1894.38
+2023-09-12,2023,9,2023-09,Expense,Tagihan & Rumah,452.28
+2023-09-13,2023,9,2023-09,Expense,Transportasi & Travel,846.74
+2023-09-14,2023,9,2023-09,Expense,Tagihan & Rumah,946.37
+2023-09-14,2023,9,2023-09,Expense,Tagihan & Rumah,949.72
+2023-09-14,2023,9,2023-09,Expense,Kesehatan,528.51
+2023-09-15,2023,9,2023-09,Income,Pendapatan & Investasi,3626.0
+2023-09-15,2023,9,2023-09,Expense,Belanja,117.58
+2023-09-16,2023,9,2023-09,Expense,Tagihan & Rumah,1984.77
+2023-09-16,2023,9,2023-09,Expense,Pendapatan & Investasi,295.02
+2023-09-21,2023,9,2023-09,Expense,Tagihan & Rumah,1560.09
+2023-09-21,2023,9,2023-09,Expense,Tagihan & Rumah,633.69
+2023-09-23,2023,9,2023-09,Income,Lainnya,2740.0
+2023-09-24,2023,9,2023-09,Expense,Tagihan & Rumah,1156.8
+2023-09-28,2023,9,2023-09,Income,Pendapatan & Investasi,1560.0
+2023-09-29,2023,9,2023-09,Expense,Belanja,812.75
+2023-10-03,2023,10,2023-10,Expense,Belanja,19.29
+2023-10-04,2023,10,2023-10,Expense,Hiburan,45.65
+2023-10-04,2023,10,2023-10,Expense,Kesehatan,1900.64
+2023-10-05,2023,10,2023-10,Income,Pendapatan & Investasi,2353.0
+2023-10-06,2023,10,2023-10,Expense,Kesehatan,631.06
+2023-10-08,2023,10,2023-10,Income,Lainnya,1868.0
+2023-10-08,2023,10,2023-10,Income,Pendapatan & Investasi,2942.0
+2023-10-08,2023,10,2023-10,Expense,Pendapatan & Investasi,1458.39
+2023-10-09,2023,10,2023-10,Expense,Kesehatan,872.99
+2023-10-09,2023,10,2023-10,Expense,Tagihan & Rumah,692.04
+2023-10-11,2023,10,2023-10,Expense,Kesehatan,1502.73
+2023-10-13,2023,10,2023-10,Income,Lainnya,656.0
+2023-10-14,2023,10,2023-10,Expense,Tagihan & Rumah,430.27
+2023-10-14,2023,10,2023-10,Income,Pendapatan & Investasi,1508.0
+2023-10-15,2023,10,2023-10,Expense,Makanan & Minuman,1191.91
+2023-10-15,2023,10,2023-10,Expense,Makanan & Minuman,756.63
+2023-10-16,2023,10,2023-10,Income,Pendapatan & Investasi,661.0
+2023-10-17,2023,10,2023-10,Income,Pendapatan & Investasi,3914.0
+2023-10-17,2023,10,2023-10,Expense,Tagihan & Rumah,1099.09
+2023-10-27,2023,10,2023-10,Expense,Tagihan & Rumah,418.93
+2023-10-27,2023,10,2023-10,Expense,Makanan & Minuman,609.22
+2023-10-29,2023,10,2023-10,Expense,Transportasi & Travel,1249.37
+2023-10-30,2023,10,2023-10,Expense,Belanja,1663.0
+2023-10-30,2023,10,2023-10,Income,Pendapatan & Investasi,2815.0
+2023-11-04,2023,11,2023-11,Income,Pendapatan & Investasi,4577.0
+2023-11-05,2023,11,2023-11,Income,Pendapatan & Investasi,2654.0
+2023-11-08,2023,11,2023-11,Expense,Hiburan,1379.53
+2023-11-08,2023,11,2023-11,Expense,Hiburan,722.26
+2023-11-08,2023,11,2023-11,Expense,Tagihan & Rumah,88.42
+2023-11-09,2023,11,2023-11,Expense,Hiburan,15.45
+2023-11-09,2023,11,2023-11,Expense,Tagihan & Rumah,1672.11
+2023-11-11,2023,11,2023-11,Expense,Tagihan & Rumah,1899.4
+2023-11-11,2023,11,2023-11,Expense,Tagihan & Rumah,1449.89
+2023-11-13,2023,11,2023-11,Income,Lainnya,2393.0
+2023-11-14,2023,11,2023-11,Expense,Transportasi & Travel,535.61
+2023-11-14,2023,11,2023-11,Income,Pendapatan & Investasi,823.0
+2023-11-15,2023,11,2023-11,Expense,Kesehatan,1605.18
+2023-11-17,2023,11,2023-11,Expense,Tagihan & Rumah,199.05
+2023-11-18,2023,11,2023-11,Expense,Makanan & Minuman,29.25
+2023-11-21,2023,11,2023-11,Income,Pendapatan & Investasi,3192.0
+2023-11-21,2023,11,2023-11,Expense,Pendapatan & Investasi,1910.63
+2023-11-22,2023,11,2023-11,Expense,Tagihan & Rumah,751.52
+2023-11-23,2023,11,2023-11,Expense,Tagihan & Rumah,807.55
+2023-11-23,2023,11,2023-11,Expense,Transportasi & Travel,1673.06
+2023-11-26,2023,11,2023-11,Expense,Tagihan & Rumah,234.98
+2023-11-26,2023,11,2023-11,Expense,Makanan & Minuman,1963.32
+2023-11-26,2023,11,2023-11,Expense,Pendapatan & Investasi,1601.8
+2023-11-26,2023,11,2023-11,Expense,Tagihan & Rumah,837.9
+2023-11-27,2023,11,2023-11,Expense,Kesehatan,1226.6
+2023-11-27,2023,11,2023-11,Expense,Pendapatan & Investasi,370.71
+2023-11-28,2023,11,2023-11,Expense,Tagihan & Rumah,971.33
+2023-11-28,2023,11,2023-11,Expense,Belanja,886.97
+2023-11-29,2023,11,2023-11,Income,Lainnya,601.0
+2023-12-05,2023,12,2023-12,Expense,Hiburan,1956.01
+2023-12-05,2023,12,2023-12,Expense,Kesehatan,1043.01
+2023-12-06,2023,12,2023-12,Expense,Tagihan & Rumah,871.37
+2023-12-08,2023,12,2023-12,Expense,Pendapatan & Investasi,698.04
+2023-12-09,2023,12,2023-12,Expense,Belanja,305.82
+2023-12-09,2023,12,2023-12,Expense,Makanan & Minuman,33.17
+2023-12-10,2023,12,2023-12,Expense,Pendapatan & Investasi,1705.22
+2023-12-11,2023,12,2023-12,Expense,Tagihan & Rumah,1505.35
+2023-12-13,2023,12,2023-12,Expense,Kesehatan,1940.59
+2023-12-14,2023,12,2023-12,Income,Pendapatan & Investasi,3601.0
+2023-12-14,2023,12,2023-12,Expense,Hiburan,166.87
+2023-12-18,2023,12,2023-12,Expense,Pendapatan & Investasi,185.16
+2023-12-20,2023,12,2023-12,Expense,Kesehatan,246.23
+2023-12-21,2023,12,2023-12,Expense,Makanan & Minuman,214.26
+2023-12-22,2023,12,2023-12,Expense,Makanan & Minuman,1653.56
+2023-12-23,2023,12,2023-12,Expense,Transportasi & Travel,1781.32
+2023-12-25,2023,12,2023-12,Expense,Pendapatan & Investasi,1901.21
+2023-12-26,2023,12,2023-12,Expense,Makanan & Minuman,1635.01
+2023-12-27,2023,12,2023-12,Expense,Kesehatan,1124.7
+2023-12-29,2023,12,2023-12,Expense,Pendapatan & Investasi,1436.15
+2023-12-29,2023,12,2023-12,Expense,Pendapatan & Investasi,236.91
+2023-12-29,2023,12,2023-12,Expense,Hiburan,14.37
+2024-01-02,2024,1,2024-01,Expense,Transportasi & Travel,1099.9
+2024-01-02,2024,1,2024-01,Expense,Tagihan & Rumah,101.1
+2024-01-04,2024,1,2024-01,Income,Pendapatan & Investasi,3852.0
+2024-01-04,2024,1,2024-01,Income,Pendapatan & Investasi,2036.0
+2024-01-07,2024,1,2024-01,Income,Lainnya,2266.0
+2024-01-09,2024,1,2024-01,Expense,Hiburan,1436.41
+2024-01-09,2024,1,2024-01,Income,Lainnya,880.0
+2024-01-10,2024,1,2024-01,Expense,Tagihan & Rumah,1546.57
+2024-01-11,2024,1,2024-01,Expense,Tagihan & Rumah,1928.07
+2024-01-11,2024,1,2024-01,Income,Pendapatan & Investasi,4045.0
+2024-01-11,2024,1,2024-01,Expense,Pendapatan & Investasi,1849.5
+2024-01-12,2024,1,2024-01,Expense,Tagihan & Rumah,1386.72
+2024-01-13,2024,1,2024-01,Income,Pendapatan & Investasi,1348.0
+2024-01-14,2024,1,2024-01,Expense,Kesehatan,1013.18
+2024-01-15,2024,1,2024-01,Expense,Hiburan,554.46
+2024-01-16,2024,1,2024-01,Expense,Transportasi & Travel,911.16
+2024-01-16,2024,1,2024-01,Income,Lainnya,4696.0
+2024-01-16,2024,1,2024-01,Expense,Kesehatan,1426.63
+2024-01-17,2024,1,2024-01,Expense,Hiburan,409.77
+2024-01-19,2024,1,2024-01,Expense,Tagihan & Rumah,1012.75
+2024-01-19,2024,1,2024-01,Expense,Kesehatan,1423.6
+2024-01-19,2024,1,2024-01,Expense,Transportasi & Travel,1376.36
+2024-01-19,2024,1,2024-01,Expense,Tagihan & Rumah,1962.86
+2024-01-20,2024,1,2024-01,Expense,Pendapatan & Investasi,1169.78
+2024-01-22,2024,1,2024-01,Expense,Belanja,1351.74
+2024-01-23,2024,1,2024-01,Expense,Transportasi & Travel,1756.18
+2024-01-24,2024,1,2024-01,Expense,Makanan & Minuman,1050.23
+2024-01-25,2024,1,2024-01,Income,Pendapatan & Investasi,934.0
+2024-01-26,2024,1,2024-01,Expense,Hiburan,541.29
+2024-01-26,2024,1,2024-01,Expense,Transportasi & Travel,1369.95
+2024-01-26,2024,1,2024-01,Income,Pendapatan & Investasi,2917.0
+2024-01-27,2024,1,2024-01,Expense,Makanan & Minuman,723.78
+2024-01-28,2024,1,2024-01,Expense,Hiburan,1487.4
+2024-01-30,2024,1,2024-01,Expense,Hiburan,1026.74
+2024-02-01,2024,2,2024-02,Expense,Transportasi & Travel,1388.94
+2024-02-06,2024,2,2024-02,Income,Lainnya,3674.0
+2024-02-07,2024,2,2024-02,Expense,Kesehatan,1932.01
+2024-02-07,2024,2,2024-02,Income,Lainnya,2163.0
+2024-02-10,2024,2,2024-02,Expense,Pendapatan & Investasi,1661.67
+2024-02-10,2024,2,2024-02,Expense,Kesehatan,1512.66
+2024-02-10,2024,2,2024-02,Expense,Hiburan,1554.53
+2024-02-14,2024,2,2024-02,Expense,Transportasi & Travel,903.14
+2024-02-14,2024,2,2024-02,Expense,Tagihan & Rumah,382.08
+2024-02-15,2024,2,2024-02,Income,Pendapatan & Investasi,3590.0
+2024-02-16,2024,2,2024-02,Income,Lainnya,2664.0
+2024-02-17,2024,2,2024-02,Income,Lainnya,546.0
+2024-02-19,2024,2,2024-02,Expense,Tagihan & Rumah,89.48
+2024-02-21,2024,2,2024-02,Expense,Makanan & Minuman,1549.59
+2024-02-21,2024,2,2024-02,Expense,Transportasi & Travel,986.2
+2024-02-21,2024,2,2024-02,Expense,Kesehatan,155.03
+2024-02-22,2024,2,2024-02,Expense,Hiburan,1914.41
+2024-02-23,2024,2,2024-02,Expense,Tagihan & Rumah,837.7
+2024-02-23,2024,2,2024-02,Expense,Tagihan & Rumah,705.31
+2024-02-24,2024,2,2024-02,Expense,Pendapatan & Investasi,1993.3
+2024-02-24,2024,2,2024-02,Expense,Kesehatan,668.82
+2024-02-25,2024,2,2024-02,Expense,Makanan & Minuman,238.3
+2024-02-27,2024,2,2024-02,Expense,Hiburan,1809.95
+2024-02-27,2024,2,2024-02,Expense,Hiburan,1918.2
+2024-02-27,2024,2,2024-02,Expense,Kesehatan,768.93
+2024-02-28,2024,2,2024-02,Expense,Tagihan & Rumah,777.89
+2024-02-29,2024,2,2024-02,Expense,Transportasi & Travel,59.16
+2024-03-02,2024,3,2024-03,Expense,Kesehatan,1033.48
+2024-03-03,2024,3,2024-03,Expense,Pendapatan & Investasi,97.26
+2024-03-05,2024,3,2024-03,Income,Pendapatan & Investasi,1871.0
+2024-03-05,2024,3,2024-03,Expense,Hiburan,647.42
+2024-03-06,2024,3,2024-03,Expense,Hiburan,1731.25
+2024-03-06,2024,3,2024-03,Expense,Tagihan & Rumah,419.1
+2024-03-06,2024,3,2024-03,Expense,Makanan & Minuman,1257.6
+2024-03-07,2024,3,2024-03,Expense,Belanja,1296.66
+2024-03-07,2024,3,2024-03,Expense,Tagihan & Rumah,57.27
+2024-03-08,2024,3,2024-03,Expense,Makanan & Minuman,184.17
+2024-03-11,2024,3,2024-03,Income,Lainnya,1077.0
+2024-03-13,2024,3,2024-03,Expense,Hiburan,1822.86
+2024-03-15,2024,3,2024-03,Expense,Pendapatan & Investasi,1264.13
+2024-03-16,2024,3,2024-03,Expense,Makanan & Minuman,785.11
+2024-03-18,2024,3,2024-03,Income,Pendapatan & Investasi,1018.0
+2024-03-26,2024,3,2024-03,Expense,Makanan & Minuman,1404.76
+2024-03-27,2024,3,2024-03,Income,Pendapatan & Investasi,2874.0
+2024-03-28,2024,3,2024-03,Expense,Transportasi & Travel,1217.07
+2024-03-29,2024,3,2024-03,Expense,Pendapatan & Investasi,769.01
+2024-03-30,2024,3,2024-03,Expense,Makanan & Minuman,953.24
+2024-03-30,2024,3,2024-03,Expense,Tagihan & Rumah,1496.04
+2024-04-03,2024,4,2024-04,Expense,Transportasi & Travel,1920.67
+2024-04-04,2024,4,2024-04,Income,Lainnya,591.0
+2024-04-06,2024,4,2024-04,Expense,Tagihan & Rumah,255.24
+2024-04-07,2024,4,2024-04,Income,Lainnya,4900.0
+2024-04-08,2024,4,2024-04,Expense,Tagihan & Rumah,616.34
+2024-04-09,2024,4,2024-04,Expense,Kesehatan,431.36
+2024-04-09,2024,4,2024-04,Expense,Tagihan & Rumah,330.3
+2024-04-10,2024,4,2024-04,Income,Pendapatan & Investasi,4996.0
+2024-04-10,2024,4,2024-04,Expense,Transportasi & Travel,396.71
+2024-04-11,2024,4,2024-04,Expense,Tagihan & Rumah,588.4
+2024-04-13,2024,4,2024-04,Income,Pendapatan & Investasi,2117.0
+2024-04-16,2024,4,2024-04,Expense,Pendapatan & Investasi,1903.56
+2024-04-17,2024,4,2024-04,Expense,Hiburan,209.09
+2024-04-17,2024,4,2024-04,Expense,Hiburan,642.39
+2024-04-17,2024,4,2024-04,Expense,Transportasi & Travel,1389.98
+2024-04-18,2024,4,2024-04,Income,Lainnya,3091.0
+2024-04-20,2024,4,2024-04,Expense,Tagihan & Rumah,19.62
+2024-04-21,2024,4,2024-04,Expense,Hiburan,1427.28
+2024-04-22,2024,4,2024-04,Expense,Transportasi & Travel,1681.82
+2024-04-23,2024,4,2024-04,Income,Lainnya,4431.0
+2024-04-25,2024,4,2024-04,Expense,Kesehatan,1551.79
+2024-04-26,2024,4,2024-04,Expense,Tagihan & Rumah,359.78
+2024-04-26,2024,4,2024-04,Expense,Transportasi & Travel,1718.84
+2024-04-30,2024,4,2024-04,Income,Pendapatan & Investasi,2656.0
+2024-05-02,2024,5,2024-05,Expense,Tagihan & Rumah,1457.58
+2024-05-03,2024,5,2024-05,Expense,Makanan & Minuman,1627.16
+2024-05-04,2024,5,2024-05,Expense,Hiburan,1813.54
+2024-05-04,2024,5,2024-05,Expense,Pendapatan & Investasi,1311.28
+2024-05-05,2024,5,2024-05,Income,Lainnya,2329.0
+2024-05-05,2024,5,2024-05,Expense,Transportasi & Travel,276.42
+2024-05-14,2024,5,2024-05,Expense,Tagihan & Rumah,799.6
+2024-05-15,2024,5,2024-05,Expense,Hiburan,1697.48
+2024-05-17,2024,5,2024-05,Expense,Tagihan & Rumah,1516.84
+2024-05-20,2024,5,2024-05,Income,Pendapatan & Investasi,1967.0
+2024-05-22,2024,5,2024-05,Expense,Tagihan & Rumah,1474.48
+2024-05-23,2024,5,2024-05,Expense,Kesehatan,90.44
+2024-05-25,2024,5,2024-05,Expense,Hiburan,135.09
+2024-05-26,2024,5,2024-05,Expense,Makanan & Minuman,1340.49
+2024-05-27,2024,5,2024-05,Expense,Kesehatan,782.31
+2024-05-27,2024,5,2024-05,Expense,Makanan & Minuman,89.41
+2024-05-31,2024,5,2024-05,Expense,Tagihan & Rumah,1410.44
+2024-06-01,2024,6,2024-06,Expense,Transportasi & Travel,1671.4
+2024-06-02,2024,6,2024-06,Expense,Tagihan & Rumah,759.55
+2024-06-02,2024,6,2024-06,Expense,Tagihan & Rumah,1038.16
+2024-06-03,2024,6,2024-06,Expense,Hiburan,1037.58
+2024-06-04,2024,6,2024-06,Expense,Kesehatan,978.85
+2024-06-06,2024,6,2024-06,Expense,Makanan & Minuman,1008.66
+2024-06-07,2024,6,2024-06,Income,Pendapatan & Investasi,2384.0
+2024-06-09,2024,6,2024-06,Income,Lainnya,2232.0
+2024-06-10,2024,6,2024-06,Income,Pendapatan & Investasi,3467.0
+2024-06-12,2024,6,2024-06,Expense,Tagihan & Rumah,1325.61
+2024-06-13,2024,6,2024-06,Expense,Kesehatan,1443.31
+2024-06-13,2024,6,2024-06,Expense,Pendapatan & Investasi,963.25
+2024-06-14,2024,6,2024-06,Expense,Belanja,54.67
+2024-06-15,2024,6,2024-06,Income,Pendapatan & Investasi,1603.0
+2024-06-16,2024,6,2024-06,Expense,Makanan & Minuman,1782.69
+2024-06-17,2024,6,2024-06,Income,Pendapatan & Investasi,2615.0
+2024-06-21,2024,6,2024-06,Expense,Belanja,1202.72
+2024-06-21,2024,6,2024-06,Expense,Makanan & Minuman,1758.23
+2024-06-22,2024,6,2024-06,Expense,Transportasi & Travel,1895.04
+2024-06-23,2024,6,2024-06,Expense,Pendapatan & Investasi,1735.93
+2024-06-23,2024,6,2024-06,Income,Lainnya,1669.0
+2024-06-23,2024,6,2024-06,Expense,Tagihan & Rumah,1250.19
+2024-06-23,2024,6,2024-06,Expense,Tagihan & Rumah,1451.13
+2024-06-23,2024,6,2024-06,Expense,Pendapatan & Investasi,1197.1
+2024-07-01,2024,7,2024-07,Income,Lainnya,3657.0
+2024-07-05,2024,7,2024-07,Income,Pendapatan & Investasi,2157.0
+2024-07-06,2024,7,2024-07,Expense,Belanja,1654.76
+2024-07-07,2024,7,2024-07,Expense,Tagihan & Rumah,956.98
+2024-07-07,2024,7,2024-07,Expense,Makanan & Minuman,1756.73
+2024-07-07,2024,7,2024-07,Expense,Tagihan & Rumah,195.45
+2024-07-07,2024,7,2024-07,Expense,Makanan & Minuman,1794.97
+2024-07-13,2024,7,2024-07,Expense,Belanja,1048.87
+2024-07-13,2024,7,2024-07,Expense,Makanan & Minuman,1398.31
+2024-07-16,2024,7,2024-07,Expense,Pendapatan & Investasi,1581.22
+2024-07-20,2024,7,2024-07,Expense,Tagihan & Rumah,856.72
+2024-07-21,2024,7,2024-07,Expense,Hiburan,1821.07
+2024-07-22,2024,7,2024-07,Income,Lainnya,2611.0
+2024-07-23,2024,7,2024-07,Income,Pendapatan & Investasi,3572.0
+2024-07-23,2024,7,2024-07,Income,Pendapatan & Investasi,4780.0
+2024-07-25,2024,7,2024-07,Expense,Kesehatan,823.6
+2024-07-26,2024,7,2024-07,Income,Lainnya,2577.0
+2024-07-26,2024,7,2024-07,Expense,Belanja,1133.69
+2024-07-26,2024,7,2024-07,Expense,Belanja,1512.39
+2024-07-26,2024,7,2024-07,Expense,Pendapatan & Investasi,365.65
+2024-07-27,2024,7,2024-07,Expense,Pendapatan & Investasi,515.02
+2024-07-27,2024,7,2024-07,Expense,Kesehatan,1550.65
+2024-07-27,2024,7,2024-07,Expense,Tagihan & Rumah,1711.45
+2024-07-28,2024,7,2024-07,Expense,Hiburan,898.72
+2024-07-28,2024,7,2024-07,Expense,Tagihan & Rumah,209.55
+2024-07-29,2024,7,2024-07,Expense,Makanan & Minuman,1610.7
+2024-07-29,2024,7,2024-07,Expense,Kesehatan,1603.7
+2024-07-29,2024,7,2024-07,Expense,Makanan & Minuman,329.87
+2024-07-30,2024,7,2024-07,Expense,Pendapatan & Investasi,1852.46
+2024-07-30,2024,7,2024-07,Expense,Tagihan & Rumah,533.55
+2024-08-01,2024,8,2024-08,Expense,Makanan & Minuman,1451.74
+2024-08-02,2024,8,2024-08,Expense,Belanja,1231.79
+2024-08-02,2024,8,2024-08,Expense,Makanan & Minuman,1891.97
+2024-08-03,2024,8,2024-08,Expense,Pendapatan & Investasi,883.55
+2024-08-03,2024,8,2024-08,Expense,Transportasi & Travel,397.55
+2024-08-08,2024,8,2024-08,Expense,Hiburan,1234.23
+2024-08-09,2024,8,2024-08,Expense,Kesehatan,486.12
+2024-08-11,2024,8,2024-08,Income,Pendapatan & Investasi,1211.0
+2024-08-14,2024,8,2024-08,Expense,Belanja,712.72
+2024-08-14,2024,8,2024-08,Expense,Hiburan,1040.31
+2024-08-14,2024,8,2024-08,Expense,Tagihan & Rumah,1839.16
+2024-08-15,2024,8,2024-08,Expense,Kesehatan,701.48
+2024-08-22,2024,8,2024-08,Expense,Hiburan,1216.66
+2024-08-23,2024,8,2024-08,Income,Lainnya,538.0
+2024-08-25,2024,8,2024-08,Expense,Belanja,1017.41
+2024-08-25,2024,8,2024-08,Expense,Transportasi & Travel,686.53
+2024-08-25,2024,8,2024-08,Income,Lainnya,4906.0
+2024-08-27,2024,8,2024-08,Expense,Pendapatan & Investasi,1542.23
+2024-08-27,2024,8,2024-08,Expense,Transportasi & Travel,1391.44
+2024-08-28,2024,8,2024-08,Expense,Pendapatan & Investasi,1366.37
+2024-08-28,2024,8,2024-08,Expense,Makanan & Minuman,969.12
+2024-08-28,2024,8,2024-08,Expense,Belanja,1270.99
+2024-08-30,2024,8,2024-08,Expense,Hiburan,1602.32
+2024-09-01,2024,9,2024-09,Expense,Kesehatan,1037.84
+2024-09-02,2024,9,2024-09,Income,Lainnya,2533.0
+2024-09-05,2024,9,2024-09,Income,Lainnya,3396.0
+2024-09-05,2024,9,2024-09,Expense,Belanja,1350.66
+2024-09-05,2024,9,2024-09,Expense,Tagihan & Rumah,1113.56
+2024-09-05,2024,9,2024-09,Expense,Transportasi & Travel,373.74
+2024-09-06,2024,9,2024-09,Expense,Hiburan,1003.01
+2024-09-07,2024,9,2024-09,Income,Pendapatan & Investasi,2674.0
+2024-09-08,2024,9,2024-09,Expense,Hiburan,1671.53
+2024-09-10,2024,9,2024-09,Expense,Kesehatan,320.43
+2024-09-13,2024,9,2024-09,Income,Pendapatan & Investasi,4535.0
+2024-09-15,2024,9,2024-09,Expense,Makanan & Minuman,1697.54
+2024-09-16,2024,9,2024-09,Expense,Kesehatan,989.76
+2024-09-17,2024,9,2024-09,Expense,Transportasi & Travel,986.7
+2024-09-17,2024,9,2024-09,Expense,Transportasi & Travel,801.78
+2024-09-17,2024,9,2024-09,Expense,Tagihan & Rumah,117.75
+2024-09-18,2024,9,2024-09,Expense,Pendapatan & Investasi,1879.91
+2024-09-21,2024,9,2024-09,Income,Lainnya,3725.0
+2024-09-22,2024,9,2024-09,Expense,Tagihan & Rumah,919.82
+2024-09-23,2024,9,2024-09,Income,Lainnya,3085.0
+2024-09-24,2024,9,2024-09,Expense,Makanan & Minuman,1351.47
+2024-09-25,2024,9,2024-09,Expense,Tagihan & Rumah,657.62
+2024-09-26,2024,9,2024-09,Expense,Transportasi & Travel,382.43
+2024-09-26,2024,9,2024-09,Expense,Transportasi & Travel,947.98
+2024-09-27,2024,9,2024-09,Expense,Kesehatan,375.99
+2024-09-27,2024,9,2024-09,Expense,Belanja,1404.42
+2024-10-01,2024,10,2024-10,Expense,Belanja,566.46
+2024-10-01,2024,10,2024-10,Income,Pendapatan & Investasi,2372.0
+2024-10-02,2024,10,2024-10,Expense,Transportasi & Travel,1610.13
+2024-10-02,2024,10,2024-10,Expense,Belanja,400.17
+2024-10-03,2024,10,2024-10,Expense,Tagihan & Rumah,951.24
+2024-10-04,2024,10,2024-10,Income,Lainnya,4486.0
+2024-10-04,2024,10,2024-10,Income,Lainnya,4592.0
+2024-10-07,2024,10,2024-10,Expense,Makanan & Minuman,802.82
+2024-10-08,2024,10,2024-10,Expense,Makanan & Minuman,438.78
+2024-10-09,2024,10,2024-10,Expense,Tagihan & Rumah,905.21
+2024-10-10,2024,10,2024-10,Expense,Kesehatan,727.01
+2024-10-10,2024,10,2024-10,Expense,Transportasi & Travel,694.84
+2024-10-11,2024,10,2024-10,Expense,Kesehatan,1736.06
+2024-10-12,2024,10,2024-10,Expense,Hiburan,1157.94
+2024-10-15,2024,10,2024-10,Expense,Tagihan & Rumah,1958.95
+2024-10-17,2024,10,2024-10,Expense,Kesehatan,1349.65
+2024-10-17,2024,10,2024-10,Expense,Pendapatan & Investasi,1780.37
+2024-10-18,2024,10,2024-10,Expense,Transportasi & Travel,932.87
+2024-10-19,2024,10,2024-10,Expense,Tagihan & Rumah,1284.76
+2024-10-19,2024,10,2024-10,Expense,Belanja,1266.23
+2024-10-21,2024,10,2024-10,Expense,Tagihan & Rumah,167.43
+2024-10-21,2024,10,2024-10,Expense,Kesehatan,640.59
+2024-10-21,2024,10,2024-10,Expense,Transportasi & Travel,1214.72
+2024-10-23,2024,10,2024-10,Expense,Pendapatan & Investasi,1564.14
+2024-10-24,2024,10,2024-10,Expense,Pendapatan & Investasi,833.84
+2024-10-28,2024,10,2024-10,Income,Pendapatan & Investasi,1524.0
+2024-11-01,2024,11,2024-11,Expense,Transportasi & Travel,1881.47
+2024-11-02,2024,11,2024-11,Expense,Tagihan & Rumah,429.04
+2024-11-03,2024,11,2024-11,Expense,Makanan & Minuman,62.47
+2024-11-03,2024,11,2024-11,Expense,Tagihan & Rumah,136.95
+2024-11-11,2024,11,2024-11,Expense,Tagihan & Rumah,216.82
+2024-11-11,2024,11,2024-11,Expense,Tagihan & Rumah,1313.12
+2024-11-12,2024,11,2024-11,Expense,Transportasi & Travel,466.42
+2024-11-13,2024,11,2024-11,Expense,Pendapatan & Investasi,1256.7
+2024-11-13,2024,11,2024-11,Income,Pendapatan & Investasi,734.0
+2024-11-13,2024,11,2024-11,Income,Lainnya,3164.0
+2024-11-13,2024,11,2024-11,Expense,Pendapatan & Investasi,1950.21
+2024-11-14,2024,11,2024-11,Expense,Transportasi & Travel,1101.61
+2024-11-14,2024,11,2024-11,Income,Pendapatan & Investasi,4240.0
+2024-11-16,2024,11,2024-11,Expense,Belanja,1051.69
+2024-11-17,2024,11,2024-11,Income,Pendapatan & Investasi,500.0
+2024-11-17,2024,11,2024-11,Expense,Kesehatan,830.29
+2024-11-17,2024,11,2024-11,Expense,Transportasi & Travel,1818.76
+2024-11-17,2024,11,2024-11,Expense,Hiburan,1611.37
+2024-11-18,2024,11,2024-11,Expense,Tagihan & Rumah,694.33
+2024-11-18,2024,11,2024-11,Expense,Makanan & Minuman,1378.66
+2024-11-19,2024,11,2024-11,Expense,Pendapatan & Investasi,606.22
+2024-11-20,2024,11,2024-11,Expense,Transportasi & Travel,1198.04
+2024-11-20,2024,11,2024-11,Expense,Kesehatan,385.26
+2024-11-22,2024,11,2024-11,Expense,Belanja,795.56
+2024-11-23,2024,11,2024-11,Income,Lainnya,3599.0
+2024-11-24,2024,11,2024-11,Expense,Transportasi & Travel,831.68
+2024-11-24,2024,11,2024-11,Expense,Transportasi & Travel,576.51
+2024-11-24,2024,11,2024-11,Expense,Tagihan & Rumah,850.26
+2024-11-25,2024,11,2024-11,Expense,Tagihan & Rumah,281.88
+2024-11-25,2024,11,2024-11,Income,Lainnya,4209.0
+2024-11-25,2024,11,2024-11,Expense,Pendapatan & Investasi,383.7
+2024-11-26,2024,11,2024-11,Income,Pendapatan & Investasi,4882.0
+2024-11-29,2024,11,2024-11,Income,Pendapatan & Investasi,2811.0
+2024-11-30,2024,11,2024-11,Expense,Pendapatan & Investasi,1456.94
+2024-12-02,2024,12,2024-12,Expense,Tagihan & Rumah,39.3
+2024-12-05,2024,12,2024-12,Expense,Belanja,630.04
+2024-12-06,2024,12,2024-12,Expense,Kesehatan,932.73
+2024-12-09,2024,12,2024-12,Expense,Kesehatan,169.64
+2024-12-11,2024,12,2024-12,Expense,Tagihan & Rumah,121.52
+2024-12-12,2024,12,2024-12,Expense,Tagihan & Rumah,1090.95
+2024-12-12,2024,12,2024-12,Income,Lainnya,3625.0
+2024-12-15,2024,12,2024-12,Expense,Tagihan & Rumah,1949.45
+2024-12-16,2024,12,2024-12,Expense,Belanja,1544.74
+2024-12-19,2024,12,2024-12,Expense,Makanan & Minuman,406.37
+2024-12-19,2024,12,2024-12,Expense,Tagihan & Rumah,1047.07
+2024-12-21,2024,12,2024-12,Expense,Pendapatan & Investasi,784.35
+2024-12-23,2024,12,2024-12,Expense,Kesehatan,325.64
+2024-12-28,2024,12,2024-12,Expense,Hiburan,727.25
+2024-12-28,2024,12,2024-12,Expense,Tagihan & Rumah,514.09
+2024-12-28,2024,12,2024-12,Income,Pendapatan & Investasi,1425.0
+2024-12-29,2024,12,2024-12,Expense,Belanja,655.78
+2024-12-29,2024,12,2024-12,Income,Lainnya,1480.0
